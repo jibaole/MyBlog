@@ -1,4 +1,6 @@
 ---
-title: Music
-layout: music
+title: 音乐
+layout: page
+comments: false
+toc: true
 ---

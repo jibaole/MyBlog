@@ -1,6 +1,8 @@
 ---
-title: Video
-layout: video
+title: 影视
+layout: page
+comments: false
+toc: true
 ---
 ### VR资源
 * 百度VR

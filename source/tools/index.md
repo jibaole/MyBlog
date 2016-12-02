@@ -1,6 +1,8 @@
 ---
-title: Tools
-layout: tools
+title: 工具
+layout: page
+comments: false
+toc: true
 ---
 
 

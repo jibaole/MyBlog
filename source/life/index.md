@@ -1,6 +1,8 @@
 ---
-title: Life
-layout: life
+title: 生活
+layout: page
+toc: true
+comments: false
 ---
 ### 旅游
 * 一个人旅行有哪些必备神器？

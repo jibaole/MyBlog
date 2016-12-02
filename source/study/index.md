@@ -1,6 +1,8 @@
 ---
-title: Study
-layout: study
+title: 学习
+layout: page
+comments: false
+toc: true
 ---
 ### 镜像源
 * 清华大学开源软件镜像站

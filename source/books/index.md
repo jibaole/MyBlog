@@ -1,6 +1,8 @@
 ---
-title: Books
-layout: books
+title: 书籍
+layout: page
+comments: false
+toc: true
 ---
 
 ### 阅读资源

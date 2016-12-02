@@ -22,10 +22,11 @@ categories:
     - Web server
     - Monitoring technology
 keywords: 
+    - hexo
 description: 
-feature:
+    - logtous.com
 toc: true
-thumbnail: 
-banner:
+thumbnail: http://s3.sinaimg.cn/mw690/001Frf1Dzy6HI2IG3MS92
+banner: http://s3.sinaimg.cn/mw690/001Frf1Dzy6HI2IG3MS92
 ---
 

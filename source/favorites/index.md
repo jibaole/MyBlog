@@ -1,6 +1,8 @@
 ---
-title: Favorites
-layout: favorites
+title: 网址收藏夹
+layout: page
+comments: false
+toc: true
 ---
 
 * Google
@@ -19,8 +21,6 @@ https://github.com
 https://stackoverflow.com
 * YouTube
 https://www.youtube.com
-* 达达影视
-a.beijingaicai.com
 * 云栖社区
 https://yq.aliyun.com/articles
 
