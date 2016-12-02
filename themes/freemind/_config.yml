@@ -1,0 +1,106 @@
+# Slogan
+slogan: "Don’t chase success, chase excellence and success will follow.- 3 idiots"
+
+# Theme
+theme: bootstrap
+default: true
+
+# Menu
+menu:
+  - title: Archives
+    url: archives
+    intro: "All the articles."
+    icon: "fa fa-archive"
+  - title: Categories
+    url: categories
+    intro: "All the categories."
+    icon: "fa fa-folder"
+  - title: Tags
+    url: tags
+    intro: "All the tags."
+    icon: "fa fa-tags"
+  - title: Favorites
+    url: favorites
+    intro: "All the favorites url."
+    icon: "fa fa-star"
+  - title: Study
+    url: study
+    intro: "All the favorites study url."
+    icon: "fa fa-code"
+  - title: Tools
+    url: tools
+    intro: "All the favorites file url."
+    icon: "fa fa-angellist"
+  - title: Video
+    url: video
+    intro: "All the favorites video url."
+    icon: "fa fa-film"
+  - title: Music
+    url: music
+    intro: "All the favorites music url."
+    icon: "fa fa-music"
+  - title: Books
+    url: books
+    intro: "All the favorites book url."
+    icon: "fa fa-book"
+  - title: Life
+    url: life
+    icon: "fa fa-life-ring"
+  - title: About
+    url: about
+    intro: "About me."
+    icon: "fa fa-user"
+
+# Links
+links:
+  - title: " My Blog RSS"
+    url: atom.xml
+    intro: "My Blog rss."
+    icon: "fa fa-rss"
+  - title: " My Github"
+    url: http://www.github.com/wonderful60
+    intro: " My Github account."
+    icon: "fa fa-github"
+  - title: " My Stack Overflow"
+    url: http://stackoverflow.com/users/6273980/wonderful60
+    intro: " My Stack Overflow account."
+    icon: "fa fa-stack-overflow"
+  - title: " My LinkedIn"
+    url: http://www.linkedin.com/in/wonderful60
+    intro: " My Linkin account."
+    icon: "fa fa-linkedin"
+  - title: " My Weibo"
+    url: http://weibo.com/wonderful60
+    intro: " My Weibo account."
+    icon: "fa fa-weibo"
+  - title: " My Email"
+    url: mailto:wanggq1989@gmail.com
+    intro: "My gmail email."
+    icon: "fa fa-inbox"
+
+# Widgets
+widgets:
+- search
+- category
+- tagcloud
+- recent_posts
+- links
+
+# Feed
+rss: atom.xml
+fancybox: true
+favicon: favicon.png
+
+# Duoshuo
+duoshuo_shortname: wonderful60
+
+# Analytics
+google_analytics:
+  enable: false
+  siteid:
+baidu_tongji:
+  enable: false
+  siteid:
+
+# Share widgets
+jiathis: true

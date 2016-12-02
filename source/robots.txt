@@ -1,0 +1,13 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /libs/
+
+
+Sitemap: http://logtous.com/sitemap.xml
+Sitemap: http://logtous.com/baidusitemap.xml
