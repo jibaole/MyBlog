@@ -3,7 +3,7 @@ title: windows环境下配置snmp与prtg 实现主机资源监控
 tags:
 categories:
   - Monitoring technology
-description: 参考：http://blog.chinaunix.net/uid-26149879-id-2559917.html
+description: 
 toc: true
 date: 2012-07-08 15:52:51
 feature:
@@ -64,3 +64,5 @@ feature:
 
 9. 最后效果
 ![](http://blog.chinaunix.net/attachment/201109/1/26149879_1314896131Kf6P.jpg)
+
+参考：http://blog.chinaunix.net/uid-26149879-id-2559917.html

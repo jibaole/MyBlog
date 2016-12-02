@@ -6,7 +6,7 @@ categories:
   - Big Data technology
 toc: true
 date: 2016-10-21 11:25:11
-description: 转自：http://www.shirlman.com/tec/20160507/367
+description: 
 feature:
 ---
 
@@ -117,3 +117,5 @@ Parse Server和Parse Dashboard里面还有好多可以配置的东西，具体�
 * 集群。首先肯定是能建立集群的，这个应该是在MongoDB那搞，我知道MongoDB自身就能很方便的建立集群，然后Parse Server连接到集群后的MongoDB，以后一台服务器搞不定了还能扩张。
 * Could code能否debug。这个我很想知道，以前在Parse上写cloud code的时候只能通过打log来分析问题，现在可以本地部署了server了，那么应该有方法直接在本地debug。
 * Parse官方的Job服务在本地版本上取消了，那么怎么在Parse上运行一些本地执行的任务呢。
+
+转自：http://www.shirlman.com/tec/20160507/367

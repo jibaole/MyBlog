@@ -6,7 +6,7 @@ categories:
   - Web server
 toc: true
 date: 2015-03-11 14:45:23
-description: 参考：http://aiks.blog.com.cn/archives/2006/1748482.shtml
+description: 
 feature:
 ---
 
@@ -358,3 +358,5 @@ cp server.csr newreq.pem
 cp newcert.pem /usr/local/apache2/conf/ssl.crt/server.crt
 cp server.key /usr/local/apache2/conf/ssl.key/
 ```
+
+参考：http://aiks.blog.com.cn/archives/2006/1748482.shtml

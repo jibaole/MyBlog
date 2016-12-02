@@ -6,7 +6,7 @@ categories:
   - Automated software
 toc: true
 date: 2016-08-18 14:58:53
-description: 转自：http://www.how2centos.com/centos-6-puppet-install/
+description: 
 feature:
 ---
 
@@ -112,3 +112,5 @@ server2.example.co.za
 Signed server2.example.co.za
 ```
  
+
+转自：http://www.how2centos.com/centos-6-puppet-install/

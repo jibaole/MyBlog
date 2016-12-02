@@ -6,10 +6,12 @@ categories:
   - Web development
 toc: false
 date: 2016-04-18 10:38:47
-description: 参考：http://stackoverflow.com/questions/32914294/ruby-error-no-implicit-conversion-of-fixnum-into-string
+description: 
 feature:
 ---
 
 ``` ruby
 puts("Your age, #{age} is a good one")
 ```
+
+参考：http://stackoverflow.com/questions/32914294/ruby-error-no-implicit-conversion-of-fixnum-into-string

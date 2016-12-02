@@ -4,7 +4,7 @@ tags:
   - php
 categories:
   - Web development
-description: 参考：https://www.ezloo.com/2009/08/php_timezone.html
+description: 
 toc: true
 date: 2015-11-09 11:47:31
 feature:
@@ -35,3 +35,5 @@ OR
 ```
 <? ini_set('date.timezone','Asia/Shanghai'); ?>
 ```
+
+参考：https://www.ezloo.com/2009/08/php_timezone.html

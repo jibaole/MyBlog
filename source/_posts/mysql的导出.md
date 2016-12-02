@@ -4,7 +4,7 @@ tags:
   - mysql
 categories:
   - Database
-description: 参考：http://blog.csdn.net/molong1208/article/details/50237495
+description: 
 toc: true
 date: 2014-11-08 16:12:14
 feature:
@@ -44,4 +44,6 @@ mysqldump -h 127.0.0.1  -u username -ppassword --single-transaction -d dbname  t
 ``` sql
 mysqldump -h 127.0.0.1  -u username -ppassword --single-transaction -t dbname  tablename>name.sql
 ```
+
+参考：http://blog.csdn.net/molong1208/article/details/50237495
 

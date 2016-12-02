@@ -6,7 +6,7 @@ categories:
   - Linux server
 toc: true
 date: 2013-11-18 10:42:14
-description: 转自：http://langzixin.iteye.com/blog/810610
+description: 
 feature:
 ---
 
@@ -79,3 +79,5 @@ SNMPDOPTS='-Lsd -Lf /dev/null -u snmp -I -smux -p /var/run/snmpd.pid
 service snmpd restart 
 ```
 重启服务，现在从别的机器再访问Ubuntu server 的snmp已经OK了
+
+转自：http://langzixin.iteye.com/blog/810610

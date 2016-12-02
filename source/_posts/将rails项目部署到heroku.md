@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-07-18 11:36:48
-description: 转自：https://ihower.tw/rails/heroku.html
+description: 
 feature:
 ---
 
@@ -62,3 +62,5 @@ heroku logs --tail
 ``` bash
 heroku run rails console
 ```
+
+转自：https://ihower.tw/rails/heroku.html

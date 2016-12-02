@@ -6,7 +6,7 @@ categories:
   - Operating system
 toc: true
 date: 2015-11-21 09:57:04
-description: 转自：https://segmentfault.com/a/1190000001703180
+description: 
 feature:
 ---
 
@@ -41,3 +41,5 @@ sudo apt-get install oracle-java8-installer
 ``` bash
 sudo update-alternatives --config java
 ```
+
+转自：https://segmentfault.com/a/1190000001703180

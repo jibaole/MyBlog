@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-09-21 11:07:16
-description: 转自：https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-04
+description: 
 feature:
 ---
 
@@ -246,5 +246,8 @@ sudo apt-get update && sudo apt-get upgrade
 However, if there is a new system Ruby version available, it will probably overwrite our Ruby (installed from source). For this reason, you might need to re-run the commands for removing the existing version of Ruby and creating a new symlink to the Ruby binary file. They are listed at the end of Step Five in this tutorial.
 
 After the update process, you will need to restart the web server:
-
+``` bash
 sudo service nginx restart
+```
+
+转自：https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-04

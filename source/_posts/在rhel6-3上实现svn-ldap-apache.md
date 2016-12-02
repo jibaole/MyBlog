@@ -6,7 +6,7 @@ categories:
   - Version control
 toc: true
 date: 2015-10-14 10:45:56
-description: 参考：http://rajaruan.blog.51cto.com/2771737/1272761
+description: 
 feature:
 ---
 
@@ -154,6 +154,7 @@ everyone=user1,test
 这个应该是ldap没有连接到域控制器，或者找不到`OU=Users,DC=gz,DC=newp,DC=local`这个OU
 检查一下你的AuthLDAPURL是否正确。
 
+参考：http://rajaruan.blog.51cto.com/2771737/1272761
 
 
 

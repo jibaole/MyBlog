@@ -6,7 +6,7 @@ categories:
   - Frontend technology
 toc: true
 date: 2016-11-21 10:35:30
-description: 转自：http://sentsin.com/web/1089.html
+description: 
 feature:
 ---
 
@@ -235,3 +235,5 @@ WebComponents 能彻底改变 Web 开发，但还需时日。前端社区需要�
 你可以在 WebComponents.org 这个网站了解更多关于 WebComponents 的知识。他们的 GitHub 账号 里有很多适合学习的例子，本文的例子也来自其中。
 
 我会很乐意听到你们对本文的评论和对 WebComponent 的见解。
+
+转自：http://sentsin.com/web/1089.html

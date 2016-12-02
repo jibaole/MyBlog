@@ -6,7 +6,7 @@ categories:
   - Mobile development
 toc: true
 date: 2016-10-21 11:30:46
-description: 转自：http://blog.csdn.net/mengxiangyue/article/details/50753835
+description: 
 feature:
 ---
 
@@ -26,3 +26,5 @@ brew upgrade flow
 升级后应该flow就能正常使用了。
 
 这样就能够正常的使用Nuclide了。
+
+转自：http://blog.csdn.net/mengxiangyue/article/details/50753835

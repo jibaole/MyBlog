@@ -4,7 +4,7 @@ tags:
   - rails
 categories:
   - Web development
-description: 参考：https://mccdn.qcloud.com/img56a609b19718b.png
+description: 
 toc: true
 date: 2016-06-08 17:26:11
 feature:
@@ -59,4 +59,6 @@ end
 gem 'railties', version
 load Gem.bin_path('railties', 'rails', version)
 ```
+
+参考：https://mccdn.qcloud.com/img56a609b19718b.png
  

@@ -6,7 +6,7 @@ categories:
   - Version control
 toc: true
 date: 2013-11-15 16:45:32
-description: 参考：http://blog.sina.com.cn/s/blog_963453200101eiuq.html
+description: 
 feature:
 ---
 
@@ -223,3 +223,5 @@ svn cat https://cdn.yun.qq.com/1251207936/readme.txt
 
 * 下载某个目录下面的文件：
 svn checkout --depth=files https://cdn.yun.qq.com/1251207936
+
+参考：http://blog.sina.com.cn/s/blog_963453200101eiuq.html

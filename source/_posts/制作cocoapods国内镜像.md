@@ -6,7 +6,7 @@ categories:
   - Mobile development
 toc: true
 date: 2016-10-21 13:54:57
-description: 转自：http://lloydsheng.com/post/setup-cocoapods-mirror
+description: 
 feature:
 ---
 
@@ -53,3 +53,5 @@ pod repo add master git@gitcafe.com:lloydsheng/Specs.git
 
 最后，如果你不想花时间自己搭的话，可以使用我在gitcafe上搭建好了的镜像。
 https://gitcafe.com/lloydsheng/Specs
+
+转自：http://lloydsheng.com/post/setup-cocoapods-mirror

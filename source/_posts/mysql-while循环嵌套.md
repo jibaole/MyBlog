@@ -6,7 +6,7 @@ categories:
   - Database
 toc: false
 date: 2013-11-17 15:19:57
-description: 转自：http://imysqldba.blog.51cto.com/1222376/595433
+description: 
 feature:
 ---
 
@@ -77,3 +77,5 @@ CREATE  PROCEDURE `qqsf_proc_InsertItemTest`(
  DELIMITER ;
 ```
 包含了repeat的实现和我在排错中给a和b打的select断点。希望对
+
+转自：http://imysqldba.blog.51cto.com/1222376/595433

@@ -6,7 +6,7 @@ categories:
   - Virtualization technology
 toc: false
 date: 2016-11-22 15:48:20
-description: 参考：http://stackoverflow.com/questions/36268822/no-rejoin-stack-sh-script-in-my-setup
+description: 
 feature:
 ---
 
@@ -37,3 +37,5 @@ fi
 echo "Couldn't find $TOP_DIR/stack-screenrc file; have you run stack.sh yet?"
 exit 1
 ```
+
+参考：http://stackoverflow.com/questions/36268822/no-rejoin-stack-sh-script-in-my-setup

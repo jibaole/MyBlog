@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-05-09 17:18:57
-description: 参考：http://www.tuicool.com/articles/3YFfYfy
+description: 
 feature:
 ---
 
@@ -33,4 +33,5 @@ https://ruby.taobao.org
 – 中山大学：http://mirror.sysu.edu.cn/rubygems/
 – 山东理工大学：http://ruby.sdutlinux.org/
 
+参考：http://www.tuicool.com/articles/3YFfYfy
 

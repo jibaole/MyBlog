@@ -6,7 +6,7 @@ categories:
   - Mobile development
 toc: true
 date: 2016-10-21 11:20:45
-description: 转自：http://www.tuicool.com/articles/uYFVzeq
+description: 
 feature:
 ---
 
@@ -91,3 +91,5 @@ install
 最后安装成功就是这个页面了 
 ![](http://img1.tuicool.com/v2eAjma.jpg!web)
 就是这个样子 ^ _ ^
+
+转自：http://www.tuicool.com/articles/uYFVzeq

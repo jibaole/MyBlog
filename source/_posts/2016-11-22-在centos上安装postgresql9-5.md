@@ -6,7 +6,7 @@ categories:
   - Database
 toc: true
 date: 2016-11-22 10:16:56
-description: 转自：http://tecadmin.net/install-postgresql-9-5-on-centos/#
+description: 
 feature:
 ---
 
@@ -94,3 +94,5 @@ postgres=# password postgres
 ```
 
 Congratulation’s! You have successfully installed PostgreSQL Server. Read below article to install phpPgAdmin.
+
+转自：http://tecadmin.net/install-postgresql-9-5-on-centos/#

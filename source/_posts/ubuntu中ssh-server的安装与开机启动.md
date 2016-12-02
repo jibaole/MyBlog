@@ -4,7 +4,7 @@ tags:
   - ubuntu
 categories:
   - Linux server
-description: 参考：http://www.2cto.com/os/201308/238160.html
+description: 
 toc: true
 date: 2012-11-09 10:54:12
 feature:
@@ -40,3 +40,5 @@ vim /etc/ssh/sshd_config
 ```
 /etc/init.d/ssh start
 ```
+
+参考：http://www.2cto.com/os/201308/238160.html

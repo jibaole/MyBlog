@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2015-11-21 10:46:48
-description: 转自：http://zhaoda.net/2015/10/16/browserify-guide/
+description: 
 feature:
 ---
 
@@ -323,3 +323,5 @@ browserify会先通过package.json中的"main"属性来查找模块入口，如�
 $ browserify x.js y.js -p [ factor-bundle -o bundle/x.js -o bundle/y.js ] \
   > bundle/common.js
 ```
+
+转自：http://zhaoda.net/2015/10/16/browserify-guide/

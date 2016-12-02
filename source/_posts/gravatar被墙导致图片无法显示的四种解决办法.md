@@ -6,7 +6,7 @@ categories:
   - Others
 toc: false
 date: 2015-11-17 11:02:56
-description: 转自：https://www.janecc.com/unblock-gravatar.html
+description: 
 feature:
 ---
 
@@ -33,3 +33,5 @@ return $avatar;}add_filter( ‘get_avatar’, ‘unblock_gravatar’ );
 大致就是建一个七牛空间来镜像 gravatar.com，然后借用方法 2 替换 gravatar.com 为七牛的域名。
 
 * 使用 WordPress 插件缓存头像到主机空间如果你使用的是国外主机，可以正常访问 Gravatar.com，那么你也可以选择将 Gravatar 缓存到自己的主机空间。
+
+转自：https://www.janecc.com/unblock-gravatar.html

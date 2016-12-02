@@ -6,7 +6,7 @@ categories:
   - Scripting language
 toc: false
 date: 2016-05-18 16:03:11
-description: 参考：http://stackoverflow.com/questions/27041885/how-to-resolve-gpg-command-not-found-error-during-rvm-installation
+description: 
 feature:
 ---
 
@@ -29,3 +29,5 @@ $brew install gnupg
 sudo port install gnupg gnupg2
 ```
 * Install from GPGTools, which also brings GUI applications and integration in Apple Mail
+
+参考：http://stackoverflow.com/questions/27041885/how-to-resolve-gpg-command-not-found-error-during-rvm-installation

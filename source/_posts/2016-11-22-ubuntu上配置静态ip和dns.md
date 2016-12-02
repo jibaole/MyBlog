@@ -5,7 +5,7 @@ categories:
   - Linux server
 toc: true
 date: 2016-11-22 11:38:22
-description: 转自：http://www.linuxdiyf.com/linux/14252.html
+description: 
 feature:
 ---
 
@@ -47,3 +47,5 @@ sudo vi /etc/resolvconf/resolv.conf.d/tail
 
 #### 总结
 未知的错误一直得不到解决是很打击人的、但是解决问题带来的愉悦也是无法言语的。选择了就坚持下去。
+
+转自：http://www.linuxdiyf.com/linux/14252.html

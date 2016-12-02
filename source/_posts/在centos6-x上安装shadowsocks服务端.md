@@ -4,7 +4,7 @@ tags:
   - shadowsocks
 categories:
   - Network proxy
-description: 参考：http://www.linuxidc.com/Linux/2015-05/117290.htm
+description: 
 toc: true
 date: 2016-10-08 16:19:09
 feature:
@@ -59,3 +59,4 @@ Linux localhost.localdomain 2.6.32-042stab106.6 #1 SMP Mon Apr 20 14:48:47 MSK 2
 [root@localhost /]# ssserver -c /etc/shadowsocks.json -d stop
 ```
 
+参考：http://www.linuxidc.com/Linux/2015-05/117290.htm

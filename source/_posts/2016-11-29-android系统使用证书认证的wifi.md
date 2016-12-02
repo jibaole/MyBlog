@@ -6,7 +6,7 @@ categories:
   - Others
 toc: false
 date: 2016-11-29 14:02:14
-description: 参考：http://bbs.gfan.com/android-85135-1-1.html
+description: 
 feature: 
 ---
 
@@ -21,3 +21,5 @@ feature:
 `匿名身份`——空着
 `无线密码`——网络提供单位给你的密码
 设定好后点连接
+
+参考：http://bbs.gfan.com/android-85135-1-1.html

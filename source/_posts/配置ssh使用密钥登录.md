@@ -6,7 +6,7 @@ categories:
   - Linux server
 toc: true
 date: 2013-11-15 14:46:46
-description: 转自：http://blog.chinaunix.net/uid-8116903-id-334714.html
+description: 
 feature:
 ---
 
@@ -27,4 +27,6 @@ scp /root/.ssh/id_rsa.pub server:/root/.ssh/authorized_keys
 `PasswordAuthentication yes` 改为
 `PasswordAuthentication no`
 也即只能使用密匙认证的openssh，禁止使用口令认证。
+
+转自：http://blog.chinaunix.net/uid-8116903-id-334714.html
 

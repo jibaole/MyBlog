@@ -6,7 +6,7 @@ categories:
   - Virtualization technology
 toc: true
 date: 2016-11-22 10:31:46
-description: 转自：http://blog.csdn.net/svmachine/article/details/51469662
+description: 
 feature:
 ---
 
@@ -138,3 +138,5 @@ FORCE=True ./stack.sh
 ./unstack.sh
 FORCE=True ./stack.sh
 ```
+
+转自：http://blog.csdn.net/svmachine/article/details/51469662

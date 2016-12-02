@@ -4,7 +4,7 @@ tags:
   - svn
 categories:
   - Version control
-description: 参考:http://opensource.wandisco.com/
+description: 
 toc: true
 date: 2015-11-09 17:13:34
 feature:
@@ -40,4 +40,4 @@ svn, version 1.8.15 (r1718365)
   compiled Dec 11 2015, 14:28:48 on x86_64-redhat-linux-gnu
 ```
 
-
+参考:http://opensource.wandisco.com/

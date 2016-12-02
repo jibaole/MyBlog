@@ -6,7 +6,7 @@ categories:
   - Web server
 toc: true
 date: 2015-12-14 16:24:00
-description: 转自：http://5iqiong.blog.51cto.com/2999926/1132639
+description: 
 feature:
 ---
 
@@ -315,3 +315,5 @@ http://space.itpub.net/27043155/viewspace-735288
 http://riches.blog.51cto.com/1167414/649598
 https://github.com/arut/nginx-rtmp-module
 http://www.yeeach.com
+
+转自：http://5iqiong.blog.51cto.com/2999926/1132639

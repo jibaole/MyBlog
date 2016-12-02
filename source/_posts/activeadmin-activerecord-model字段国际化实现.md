@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: false
 date: 2016-07-18 11:05:08
-description: 参考：http://stackoverflow.com/questions/11097572/refactoring-ruby-on-rails-i18n-yaml-files-using-dictionaries
+description: 
 feature:
 ---
 
@@ -21,3 +21,5 @@ activerecord:
   models:
     user: User
 ```
+
+参考：http://stackoverflow.com/questions/11097572/refactoring-ruby-on-rails-i18n-yaml-files-using-dictionaries

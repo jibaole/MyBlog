@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-06-21 11:02:26
-description: 转自：http://blog.csdn.net/li_yong_kuan/article/details/52013862
+description: 
 feature: 
 ---
 
@@ -133,3 +133,5 @@ Time.now.strftime('%Y年-%m月-%d日 %H时:%M分:%S秒')
 
 => "2016年-07月-24日 15时:17分:53秒"
 ```
+
+转自：http://blog.csdn.net/li_yong_kuan/article/details/52013862

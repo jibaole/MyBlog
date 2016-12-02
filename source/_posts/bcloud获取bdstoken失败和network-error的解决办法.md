@@ -6,7 +6,7 @@ categories:
   - Operating system
 toc: true
 date: 2015-11-15 16:57:54
-description: 转自：http://www.cniee.com/linux/bcloud-bdstoken.html
+description: 
 feature:
 ---
 
@@ -42,3 +42,5 @@ rm -rf ~/.cache/bcloud/*
 ```
 重新登录就好啦！
 
+
+转自：http://www.cniee.com/linux/bcloud-bdstoken.html

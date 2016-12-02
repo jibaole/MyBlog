@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: false
 date: 2015-07-17 11:10:05
-description: 转自：http://hi.baidu.com/oyvfhp/item/2bee2d200aba2b152a0f1cfc
+description: 
 feature:
 ---
 
@@ -18,3 +18,5 @@ $ay = array('FF','abcd');
 echo ${'FF'.$a};
 echo ${$ay[0].$ay[1]}; //同样,数组可以和字符串和变量组合,其中最关键就是使用{}包起来
 ```
+
+转自：http://hi.baidu.com/oyvfhp/item/2bee2d200aba2b152a0f1cfc

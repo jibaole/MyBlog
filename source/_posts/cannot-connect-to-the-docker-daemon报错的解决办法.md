@@ -6,7 +6,7 @@ categories:
   - Virtualization technology
 toc: true
 date: 2015-06-18 15:13:38
-description: 转自：http://www.cnblogs.com/rexzhao/p/5048004.html
+description: 
 feature:
 ---
 
@@ -50,3 +50,5 @@ Cannot connect to the Docker daemon. Is the docker daemon running on this host?
 test@ubuntu:/etc/init.d$ exit
 exit
 ```
+
+转自：http://www.cnblogs.com/rexzhao/p/5048004.html

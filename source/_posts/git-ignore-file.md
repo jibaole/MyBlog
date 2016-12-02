@@ -6,7 +6,7 @@ categories:
   - Version control
 toc: true
 date: 2015-11-21 10:13:15
-description: 转自：https://help.github.com/articles/ignoring-files/
+description: 
 feature:
 ---
 
@@ -23,3 +23,5 @@ git rm --cached FILENAME
 ``` bash
 git config --global core.excludesfile ~/.gitignore_global
 ```
+
+转自：https://help.github.com/articles/ignoring-files/

@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2015-11-21 10:08:07
-description: 转自：http://stackoverflow.com/questions/30088550/gulp-command-not-found-mac-os/30088755
+description: 
 feature:
 ---
 
@@ -27,3 +27,5 @@ Another idea is to add scripts to your package.json file along the lines of:
 }
 ```
 Then use npm run serve...
+
+转自：http://stackoverflow.com/questions/30088550/gulp-command-not-found-mac-os/30088755

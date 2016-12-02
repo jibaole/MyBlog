@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-05-18 11:25:11
-description: 转自：https://ihower.tw/rails/testing.html
+description: 
 feature:
 ---
 
@@ -281,3 +281,5 @@ https://travis-ci.org
 https://www.codeship.io
 https://circleci.com
 如果自己架設的話，推薦老牌的Jenkins。
+
+转自：https://ihower.tw/rails/testing.html

@@ -6,7 +6,7 @@ categories:
   - Virtualization technology
 toc: true
 date: 2016-11-22 10:50:37
-description: 转自：https://docs.docker.com/engine/installation/linux/ubuntulinux/
+description: 
 feature:
 ---
 
@@ -338,3 +338,5 @@ The above commands will not remove images, containers, volumes, or user created 
 $ rm -rf /var/lib/docker
 ```
 You must delete the user created configuration files manually.
+
+转自：https://docs.docker.com/engine/installation/linux/ubuntulinux/

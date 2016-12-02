@@ -5,7 +5,7 @@ categories:
   - Linux server
 toc: true
 date: 2014-07-16 16:49:58
-description: 转自：http://www.osyunwei.com/archives/7918.html
+description: 
 feature:
 ---
 
@@ -573,3 +573,6 @@ yum install htop #测试rpmforge源
 yum install nginx #测试epel源
 ```
 至此，搭建CentOS在线yum源镜像服务器完成！
+
+
+转自：http://www.osyunwei.com/archives/7918.html

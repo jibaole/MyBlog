@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-09-18 15:17:22
-description: 参考：http://stackoverflow.com/questions/13995927/add-class-to-body-using-erb-in-a-view-rails
+description: 
 feature:
 ---
 
@@ -43,3 +43,5 @@ In the content page:
 ```
 <% content_for :body_class do  'my-body-class' end %>
 ```
+
+参考：http://stackoverflow.com/questions/13995927/add-class-to-body-using-erb-in-a-view-rails

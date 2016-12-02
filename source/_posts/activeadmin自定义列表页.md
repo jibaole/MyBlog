@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-07-18 10:54:44
-description: 转自：http://blog.csdn.net/feng88724/article/details/49124281
+description: 
 feature:
 ---
 
@@ -133,3 +133,5 @@ ActiveAdmin.setup do |config|
   config.filters = false
 end
 ```
+
+转自：http://blog.csdn.net/feng88724/article/details/49124281

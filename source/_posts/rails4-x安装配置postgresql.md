@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-05-15 11:37:05
-description: 转自：http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html
+description: 
 feature:
 ---
 
@@ -177,3 +177,5 @@ dropdb -U postgres demodb
 ```
 psql#DROP DATABASE demodb
 ```
+
+转自：http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html

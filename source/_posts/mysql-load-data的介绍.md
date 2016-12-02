@@ -6,7 +6,7 @@ categories:
   - Database
 toc: true
 date: 2016-04-17 16:03:20
-description: 转自：http://dev.mysql.com/doc/refman/5.1/zh/sql-syntax.html#load-data
+description: 
 feature:
 ---
 
@@ -154,5 +154,8 @@ ESCAPED BY用于转义，FIELDS ESCAPED BY值必须为单一字符。
 
 #### Mysql 大量数据快速导入导出 
 http://blog.csdn.net/xiaobaismiley/article/details/41015783
+
+
+转自：http://dev.mysql.com/doc/refman/5.1/zh/sql-syntax.html#load-data
 
 

@@ -4,7 +4,7 @@ tags:
   - rails
 categories:
   - Web development
-description: 参考：http://stackoverflow.com/questions/32397607/missing-secret-token-and-secret-key-base-for-development-environment-set
+description: 
 toc: false
 date: 2016-10-09 14:39:38
 feature:
@@ -17,4 +17,6 @@ OR
 ```
 RAILS_ENV=production bundle exec rake generate_secret_token
 ```
+
+参考：http://stackoverflow.com/questions/32397607/missing-secret-token-and-secret-key-base-for-development-environment-set
 

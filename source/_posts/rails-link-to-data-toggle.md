@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: false
 date: 2016-08-18 15:23:47
-description: 参考：http://stackoverflow.com/questions/29435959/rails-4-data-toggle-link-to
+description: 
 feature:
 ---
 ```
@@ -20,3 +20,5 @@ Or
 ```
 <%= link_to 'my site', { controller: 'home', action: 'index' }, { class: 'tooltips', title: '', data: { toggle: 'tooltip', placement: 'top', original_title: 'Facebook' } } %>
 ```
+
+参考：http://stackoverflow.com/questions/29435959/rails-4-data-toggle-link-to

@@ -5,7 +5,7 @@ categories:
   - Linux server
 toc: false
 date: 2014-11-18 16:16:59
-description: 转自：http://www.111cn.net/sys/linux/55105.htm
+description: 
 feature:
 ---
 
@@ -155,4 +155,6 @@ chmod 771 file
 　　效果相同
 　　
 　　若用chmod 4755 filename可使此程序具有root的权限
+
+转自：http://www.111cn.net/sys/linux/55105.htm
 

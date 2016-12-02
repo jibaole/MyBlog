@@ -6,7 +6,7 @@ categories:
   - Development tools
 toc: true
 date: 2014-11-15 10:22:58
-description: 转自：https://segmentfault.com/q/1010000002397241
+description: 
 feature:
 ---
 
@@ -21,3 +21,4 @@ alias nano="subl"
 export EDITOR="subl"
 ```
 
+转自：https://segmentfault.com/q/1010000002397241

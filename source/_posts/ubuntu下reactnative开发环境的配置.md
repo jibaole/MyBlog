@@ -6,7 +6,7 @@ categories:
   - Mobile development
 toc: true
 date: 2016-10-21 10:20:16
-description: 转自：http://www.linuxdiyf.com/linux/16834.html
+description: 
 feature:
 ---
 
@@ -117,3 +117,5 @@ AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
 ```
 再次reload js, 可以通过菜单调出选项。
 ![](http://www.linuxdiyf.com/linux/uploads/allimg/151227/2-15122F94K2221.jpg)
+
+转自：http://www.linuxdiyf.com/linux/16834.html

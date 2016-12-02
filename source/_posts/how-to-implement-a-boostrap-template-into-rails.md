@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-08-18 15:29:10
-description: 参考：http://stackoverflow.com/questions/23019454/how-to-implement-a-boostrap-template-into-rails
+description: 
 feature:
 ---
 
@@ -42,3 +42,5 @@ And add the following to your app/assets/stylesheets/application.css:
 *= require admin-lte
 ```
 After that, you should be able to style your Project using all of the classes installed via the AdminLTE template. Let me know if you run into any other snags, I'll be working with the theme extensively while putting together a dashboard app as a front-end for a larger project.
+
+参考：http://stackoverflow.com/questions/23019454/how-to-implement-a-boostrap-template-into-rails

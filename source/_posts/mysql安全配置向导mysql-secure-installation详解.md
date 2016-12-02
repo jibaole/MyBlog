@@ -6,7 +6,7 @@ categories:
   - Database
 toc: false
 date: 2015-06-21 14:27:02
-description: 转自：http://www.jb51.net/article/47727.htm
+description: 
 feature:
 ---
 
@@ -67,3 +67,5 @@ installation should now be secure.
 Thanks for using MySQL!
 [root@server1 ~]#
 ```
+
+转自：http://www.jb51.net/article/47727.htm

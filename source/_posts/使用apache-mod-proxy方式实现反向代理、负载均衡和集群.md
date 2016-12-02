@@ -6,7 +6,7 @@ categories:
   - Web server
 toc: true
 date: 2015-03-11 11:14:35
-description: 参考：http://blog.itpub.net/29254281/viewspace-1070221/
+description: 
 feature:
 ---
 
@@ -102,3 +102,5 @@ LoadModule proxy_html_module modules/mod_proxy_html.so
 如果worker1宕机,这个用户的后续请求会自动转移到worker2.
 由于Tomcat配置了Session复制,所以Session信息没有丢失。
 整个过程对于用户是完全透明的。
+
+参考：http://blog.itpub.net/29254281/viewspace-1070221/

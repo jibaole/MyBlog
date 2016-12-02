@@ -4,7 +4,7 @@ tags:
   - composer
 categories:
   - Web development
-description: 参考：http://stackoverflow.com/questions/27206719/composer-update-fails-while-updating-from-packagist
+description: 
 toc: true
 date: 2015-10-08 16:51:06
 feature:
@@ -35,3 +35,5 @@ $ wget http://curl.haxx.se/ca/cacert.pem
 ```
 $ sudo mv cacert.pem /opt/lampp/share/openssl/cert.pem
 ```
+
+参考：http://stackoverflow.com/questions/27206719/composer-update-fails-while-updating-from-packagist

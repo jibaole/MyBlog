@@ -6,7 +6,7 @@ categories:
   - Operating system
 toc: true
 date: 2012-11-18 15:42:06
-description: 转自：http://blog.csdn.net/ruglcc/article/details/7802077
+description: 
 feature:
 ---
 
@@ -39,3 +39,5 @@ v-jiwan-ubuntu-temp
 127.0.0.1       localhost
 127.0.1.1       v-jiwan-ubuntu
 ```
+
+转自：http://blog.csdn.net/ruglcc/article/details/7802077

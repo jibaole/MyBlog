@@ -6,7 +6,7 @@ categories:
   - Scripting language
 toc: true
 date: 2014-07-18 16:34:04
-description: 参考：http://stackoverflow.com/questions/11649872/getting-error-xargs-unterminated-quote-when-tried-to-print-the-number-of-lines
+description: 
 feature:
 ---
 
@@ -22,3 +22,5 @@ I tried to remove all .svn folder and below is worked for me:
 ``` bash
 find ./ -name ".svn" -print0 | xargs -0 rm -Rf –
 ```
+
+参考：http://stackoverflow.com/questions/11649872/getting-error-xargs-unterminated-quote-when-tried-to-print-the-number-of-lines

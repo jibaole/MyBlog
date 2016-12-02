@@ -6,7 +6,7 @@ categories:
   - Automated software
 toc: true
 date: 2015-11-11 11:27:02
-description: 参考：http://it.zhaozhao.info/archives/50384
+description: 
 feature:
 ---
 
@@ -22,5 +22,7 @@ feature:
 按下页面最下面的储存按钮, 设定就会变更。
 
 回到首页, 重新整理一下页面, 就可以看到默认语言改变了。
+
+参考：http://it.zhaozhao.info/archives/50384
 
 

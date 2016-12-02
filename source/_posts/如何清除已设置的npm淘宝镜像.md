@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: false
 date: 2015-11-21 13:52:20
-description: 转自：https://segmentfault.com/q/1010000004596263/a-1020000004596456
+description: 
 feature:
 ---
 
@@ -26,3 +26,5 @@ npm config delete disturl
 npm config edit 
 ```
 找到淘宝那两行,删除
+
+转自：https://segmentfault.com/q/1010000004596263/a-1020000004596456

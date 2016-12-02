@@ -6,7 +6,7 @@ toc: true
 date: 2016-07-08 15:19:30
 tags:
   - rails
-description: 参考：http://stackoverflow.com/questions/13086073/rails-install-pg-cant-find-the-libpq-fe-h-header
+description: 
 feature:
 ---
 
@@ -25,3 +25,5 @@ sudo apt-get install libpq-dev
 ```
 yum install postgresql-devel
 ```
+
+参考：http://stackoverflow.com/questions/13086073/rails-install-pg-cant-find-the-libpq-fe-h-header

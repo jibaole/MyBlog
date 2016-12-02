@@ -6,7 +6,7 @@ categories:
   - Web server
 toc: true
 date: 2015-04-16 16:26:23
-description: 转自：http://hi.baidu.com/wj745168/item/5614dff0ba43cb59c8f337ff
+description: 
 feature:
 ---
 
@@ -49,3 +49,5 @@ apxs -c [-S <var>=<val>] [-o <dsofile>] [-D <name>[=<value>]]
 apxs -i [-S <var>=<val>] [-a] [-A] [-n <modname>] <dsofile> ...
 apxs -e [-S <var>=<val>] [-a] [-A] [-n <modname>] <dsofile> ...
 ```
+
+转自：http://hi.baidu.com/wj745168/item/5614dff0ba43cb59c8f337ff

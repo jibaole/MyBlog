@@ -6,7 +6,7 @@ categories:
   - Operating system
 toc: false
 date: 2014-11-18 16:13:23
-description: 参考：https://github.com/Homebrew/legacy-homebrew/issues/17730
+description: 
 feature:
 ---
 
@@ -24,3 +24,5 @@ or
 ``` bash
 ps aux | grep ruby
 ```
+
+参考：https://github.com/Homebrew/legacy-homebrew/issues/17730

@@ -6,7 +6,7 @@ categories:
   - Web server
 toc: true
 date: 2015-11-16 16:45:00
-description: 转自：http://www.zhukun.net/archives/7343
+description: 
 feature:
 ---
 
@@ -91,3 +91,5 @@ server
     }
 ```
 其中，auth_basic是弹出的文字提示，而.htpasswd则是记录登陆用户名与密码的文件。该文件可用Apache的htpasswd工具创建。 查看创建.htpasswd文件的方法 。
+
+转自：http://www.zhukun.net/archives/7343

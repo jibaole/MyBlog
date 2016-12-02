@@ -6,7 +6,7 @@ categories:
   - Scripting language
 toc: true
 date: 2015-11-09 17:15:39
-description: 参考：http://blog.itpub.net/29038506/viewspace-766717/
+description: 
 feature:
 ---
 
@@ -54,3 +54,5 @@ script
 └── [4.0K]  haha
     └── [4.0K]  be1
 ```
+
+参考：http://blog.itpub.net/29038506/viewspace-766717/

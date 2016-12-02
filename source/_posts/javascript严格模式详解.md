@@ -6,7 +6,7 @@ categories:
   - Frontend technology
 toc: true
 date: 2016-05-21 10:28:04
-description: 转自：http://www.ruanyifeng.com/blog/2013/01/javascript_strict_mode.html
+description: 
 feature:
 ---
 
@@ -246,3 +246,5 @@ arguments是函数的参数对象，严格模式对它的使用做了限制。
 　　}
 ```
 此外，ECMAscript第五版本身还规定了另一些保留字（class, enum, export, extends, import, super），以及各大浏览器自行增加的const保留字，也是不能作为变量名的。
+
+转自：http://www.ruanyifeng.com/blog/2013/01/javascript_strict_mode.html

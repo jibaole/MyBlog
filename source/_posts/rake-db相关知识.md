@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-04-15 17:03:47
-description: 转自：https://www.douban.com/note/92737624/
+description: 
 feature:
 ---
 
@@ -139,3 +139,5 @@ rake tmp:pids:clear                  # Clears all files in tmp/pids
 rake tmp:sessions:clear              # Clears all files in tmp/sessions
 rake tmp:sockets:clear               # Clears all files in tmp/sockets
 ```
+
+转自：https://www.douban.com/note/92737624/

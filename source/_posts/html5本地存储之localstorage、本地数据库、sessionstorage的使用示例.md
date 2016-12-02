@@ -6,7 +6,7 @@ categories:
   - Frontend technology
 toc: true
 date: 2016-08-18 11:16:52
-description: 转自：http://www.jb51.net/html5/163365.html
+description: 
 feature:
 ---
 
@@ -110,3 +110,5 @@ sqlQuery：需要具体执行的sql语句，create||select||update||delete；
 [value1,value2..]：sql语句中所有使用到的参数的数组，在executeSql方法中，将sql语句中所要使用的参数先用“?”代替，然后依次将这些参数组成数组放在第二个参数中；
 dataHandler：执行成功回调函数；
 errorHandler：执行失败回调函数；
+
+转自：http://www.jb51.net/html5/163365.html

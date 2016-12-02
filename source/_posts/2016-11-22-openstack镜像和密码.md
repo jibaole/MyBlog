@@ -6,7 +6,7 @@ categories:
   - Virtualization technology
 toc: true
 date: 2016-11-22 15:21:43
-description: 转自：http://www.chenshake.com/openstack-mirror-and-password/
+description: 
 feature:
 ---
 
@@ -123,3 +123,5 @@ http://openstack.redhat.com/Image_resources
 #### 附录
 你需要设置安全组，打开22端口才能ssh登陆。
 ![](http://chenshake.qiniudn.com/wp-content/uploads/2013/11/Snap9.jpg)
+
+转自：http://www.chenshake.com/openstack-mirror-and-password/

@@ -3,7 +3,7 @@ title: linux系统新硬盘分区并格式化
 tags:
 categories:
   - Linux server
-description: 参考：https://www.qcloud.com/doc/product/213/2043#4.-.E6.A0.BC.E5.BC.8F.E5.8C.96.E5.88.86.E5.8C.BA
+description: 
 toc: true 
 date: 2014-12-08 17:07:43
 feature: 
@@ -97,3 +97,5 @@ df –h
 #### 6. 设置自动挂载
 修改fstab文件，设置系统重启时自动挂载新分区，如图，加入最后一行内容。
 ![](https://mccdn.qcloud.com/img56a609b19718b.png)
+
+参考：https://www.qcloud.com/doc/product/213/2043#4.-.E6.A0.BC.E5.BC.8F.E5.8C.96.E5.88.86.E5.8C.BA

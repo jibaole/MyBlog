@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2015-11-21 13:57:44
-description: 转自：http://tech.meituan.com/npm-shrinkwrap.html
+description: 
 feature:
 ---
 
@@ -172,3 +172,5 @@ package.json 文件中指定了一个非严格的版本号的依赖在运行 npm
 
 #### 小结
 通过引入 shrinkwrap 文件，我们可以较好的管理项目的依赖关系，让上线变得更轻松。需要注意的是，尽管相关工具可以帮助你减化工作流程、可靠的分发依赖描述，但工具不能取代功能测试；每次升级依赖版本之后，我们仍然应该进行相关测试来确保项目能可靠的运行在该环境中。
+
+转自：http://tech.meituan.com/npm-shrinkwrap.html

@@ -6,7 +6,7 @@ categories:
   - Database
 toc: false
 date: 2013-11-17 16:30:03
-description: 转自：http://blog.itpub.net/12309491/viewspace-683297
+description: 
 feature:
 ---
 
@@ -107,3 +107,5 @@ Count: 1  Time=0.00s (0s)  Lock=0.00s (0s)  Rows=0.0 (0), 0users@0hosts
 我们可以通过sleep函数来做简单的测试：
 如：select sleep(11);
 回去测试
+
+转自：http://blog.itpub.net/12309491/viewspace-683297

@@ -5,7 +5,7 @@ categories:
 toc: true
 date: 2016-10-08 11:35:54
 tags:
-description: 参考：http://simonhu.blog.51cto.com/196416/1588971
+description: 
 feature:
 ---
 
@@ -62,3 +62,5 @@ DNS1=172.8.1.1
 
 #### 安装ifconfig
 [root@centos1 ~]#yum install net-tools
+
+参考：http://simonhu.blog.51cto.com/196416/1588971

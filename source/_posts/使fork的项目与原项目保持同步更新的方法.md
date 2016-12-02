@@ -6,7 +6,7 @@ toc: false
 date: 2015-11-08 14:46:19
 tags:
   - git
-description: 参考：http://www.tuicool.com/articles/Mnmmqyi
+description: 
 feature:
 ---
 
@@ -30,3 +30,5 @@ git rebase upstream/{branch name}
 ```
 git push
 ```
+
+参考：http://www.tuicool.com/articles/Mnmmqyi

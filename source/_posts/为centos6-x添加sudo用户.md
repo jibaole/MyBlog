@@ -3,7 +3,7 @@ title: 为centos6.x添加sudo用户
 tags:
 categories:
   - Linux server
-description: 参考：https://www.liquidweb.com/kb/how-to-add-a-user-and-grant-root-privileges-on-centos-6-5/
+description: 
 toc: true
 date: 2011-11-08 16:40:55
 feature:
@@ -30,4 +30,6 @@ root ALL=(ALL) ALL
 ```
 mynewuser ALL=(ALL) ALL
 ```
+
+参考：https://www.liquidweb.com/kb/how-to-add-a-user-and-grant-root-privileges-on-centos-6-5/
 

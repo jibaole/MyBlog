@@ -6,7 +6,7 @@ categories:
   - Others
 toc: true
 date: 2016-04-21 11:33:35
-description: 转自：http://blog.chinaunix.net/uid-26000296-id-3754118.html
+description: 
 feature:
 ---
 
@@ -177,3 +177,5 @@ _______阻塞____________________非阻塞_____
   如果使用异步非阻塞的情况,
   比如aio_*组的操作,当发起一个aio_read 操作时,函数会马上返回不会被阻塞,
   当所关注的事件被触发时会调用之前注册的回调函数进行处理,
+
+  转自：http://blog.chinaunix.net/uid-26000296-id-3754118.html

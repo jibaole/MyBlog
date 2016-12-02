@@ -6,7 +6,7 @@ categories:
   - Database
 toc: false 
 date: 2015-05-15 10:13:50
-description: 转自：http://www.2cto.com/database/201306/222839.html
+description: 
 feature:
 ---
 
@@ -127,3 +127,5 @@ select num from a where num in(select num from b)
 29. 尽量避免向客户端返回大数据量，若数据量过大，应该考虑相应需求是否合理。
 
 30. 尽量避免大事务操作，提高系统并发能力。
+
+转自：http://www.2cto.com/database/201306/222839.html

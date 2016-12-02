@@ -4,7 +4,7 @@ tags:
   - macos
 categories:
   - Operating system
-description: 参考：http://www.zhihu.com/question/36693783?sort=created
+description: 
 toc: true
 date: 2014-11-09 17:00:55
 feature:
@@ -26,3 +26,4 @@ OpenSSL 1.0.2d 9 Jul 2015
 OpenSSL 0.9.8zg 14 July 2015
 ```
 
+参考：http://www.zhihu.com/question/36693783?sort=created

@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: false
 date: 2016-07-18 11:09:55
-description: 参考：http://stackoverflow.com/questions/18617019/is-is-possible-to-render-a-normal-template-html-erb-template-with-active-admin
+description: 
 feature:
 ---
 
@@ -34,3 +34,5 @@ And rename app/views/admin/stats/index.html.erb to app/views/admin/stats/_index.
 And it works fine.
 
 From what I understand, if index.html.erb is present in views/admin/stats, the content block is not called. If index.html.erb is renamed into something else, then we go into the content block, then the layout rendering is called...
+
+参考：http://stackoverflow.com/questions/18617019/is-is-possible-to-render-a-normal-template-html-erb-template-with-active-admin

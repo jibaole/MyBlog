@@ -6,7 +6,7 @@ categories:
   - Version control
 toc: true
 date: 2015-11-14 10:56:05
-description: 转自：http://write.blog.csdn.net/postedit/22666981
+description: 
 feature:
 ---
 
@@ -137,3 +137,5 @@ http://sourceforge.net/projects/ifsvnadmin/files/svnadmin-1.6.2.zip/download
 赋予admin 读写权限
 通过http://servername/svn/reponame ，使用admin账户进入刚刚建立完成的repo
 之后就可以通过svn客户端checkout或者import代码进行版本管理了。谢谢大家
+
+转自：http://write.blog.csdn.net/postedit/22666981

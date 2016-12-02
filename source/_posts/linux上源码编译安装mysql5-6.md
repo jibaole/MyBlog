@@ -6,7 +6,7 @@ categories:
   - Database
 toc: true
 date: 2015-08-15 14:28:24
-description: 参考：http://blog.csdn.net/wendi_0506/article/details/39478369
+description: 
 feature:
 ---
 
@@ -42,3 +42,5 @@ chown -R mysql:mysql .
 /usr/local/mysql/bin/mysqld_safe --user=mysql --defaults-file=/usr/local/mysql/my.cnf &
   
 ```
+
+参考：http://blog.csdn.net/wendi_0506/article/details/39478369

@@ -6,10 +6,12 @@ categories:
   - Web development
 toc: false
 date: 2016-07-18 11:14:10
-description: 参考：https://github.com/activeadmin/activeadmin/issues/1848
+description: 
 feature:
 ---
 
 ``` ruby
 column t(:title), :title, :class => :title
 ```
+
+参考：https://github.com/activeadmin/activeadmin/issues/1848

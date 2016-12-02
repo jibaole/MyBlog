@@ -6,7 +6,7 @@ categories:
   - Others
 toc: true
 date: 2015-11-17 16:34:38
-description: 转自：http://yunshangbuhe.iteye.com/blog/1979587
+description: 
 feature:
 ---
 
@@ -74,3 +74,5 @@ resp.addHeader("Access-Control-Max-Age", "50");
  
 }
 ```
+
+转自：http://yunshangbuhe.iteye.com/blog/1979587

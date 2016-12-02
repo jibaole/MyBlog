@@ -6,7 +6,7 @@ categories:
   - Mobile development
 toc: false
 date: 2014-11-16 14:25:32
-description: 参考：https://github.com/jwise/HoRNDIS/issues/42#
+description: 
 feature:
 ---
 
@@ -14,4 +14,6 @@ feature:
 sudo kextload /System/Library/Extensions/HoRNDIS.kext
 
 ```
+
+参考：https://github.com/jwise/HoRNDIS/issues/42#
 

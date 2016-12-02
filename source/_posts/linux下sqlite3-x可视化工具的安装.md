@@ -6,7 +6,7 @@ categories:
   - Database
 toc: true
 date: 2016-08-18 10:48:27
-description: 转自：http://lieyan.lofter.com/post/225d54_b449fc
+description: 
 feature:
 ---
 
@@ -46,3 +46,5 @@ sudo apt-get install sqlitebrowser
 ``` bash
 sudo apt-get install sqliteman
 ```
+
+转自：http://lieyan.lofter.com/post/225d54_b449fc

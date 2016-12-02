@@ -6,7 +6,7 @@ categories:
   - Big Data technology
 toc: true
 date: 2016-04-15 16:24:35
-description: 转自：https://segmentfault.com/a/1190000002972420
+description: 
 feature:
 ---
 
@@ -78,3 +78,5 @@ title:(+return +”pink panther”)
 #### 转义特殊字符
 && || ! () {} [] ^” ~ * ? : \
 以上字符当作值搜索的时候需要用\转义
+
+转自：https://segmentfault.com/a/1190000002972420

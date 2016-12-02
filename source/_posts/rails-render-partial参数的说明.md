@@ -6,7 +6,7 @@ categories:
   - Web development
 toc: true
 date: 2016-09-18 11:20:03
-description: 转自：http://hlee.iteye.com/blog/1084702
+description: 
 feature:
 ---
 
@@ -138,3 +138,5 @@ Name: <%= user.name %>
   <%= yield %>  
 </div>  
 ```
+
+转自：http://hlee.iteye.com/blog/1084702

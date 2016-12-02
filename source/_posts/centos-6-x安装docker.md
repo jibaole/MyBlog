@@ -6,7 +6,7 @@ categories:
   - Virtualization technology
 toc: true
 date: 2015-06-16 14:29:10
-description: 参考：http://supertaodi.blog.51cto.com/7256234/1619603
+description: 
 feature:
 ---
 
@@ -43,3 +43,5 @@ Status: Downloaded newer image for centos:latest
 # docker run -i -t –rm centos /bin/echo “hello world”
 hello world
 ```
+
+参考：http://supertaodi.blog.51cto.com/7256234/1619603

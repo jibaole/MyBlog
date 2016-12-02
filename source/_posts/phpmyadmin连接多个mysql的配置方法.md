@@ -3,7 +3,7 @@ title: phpmyadmin连接多个mysql的配置方法
 tags:
 categories:
   - Development tools
-description: 参考：http://blog.csdn.net/yangyu112654374/article/details/4297125
+description: 
 toc: false
 date: 2013-11-09 15:16:07
 feature:
@@ -195,3 +195,4 @@ $cfg['SaveDir'] = '';
 
 ```
 
+参考：http://blog.csdn.net/yangyu112654374/article/details/4297125

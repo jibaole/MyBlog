@@ -6,7 +6,7 @@ toc: true
 date: 2016-11-08 14:05:42
 tags:
   - apache
-description: 参考：http://www.cyberciti.biz/faq/apache-2-reload-httpd-config-file-unix-linux-command/
+description: 
 feature:
 ---
 #### apache webserver支持的操作
@@ -53,3 +53,5 @@ tail -f /var/log/apache2/error.log
 ## FreeBSD Unix ##
 tail -f /var/log/httpd-error.log
 ```
+
+参考：http://www.cyberciti.biz/faq/apache-2-reload-httpd-config-file-unix-linux-command/

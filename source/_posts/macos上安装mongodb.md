@@ -6,7 +6,7 @@ categories:
   - Database
 toc: true
 date: 2015-11-21 11:36:20
-description: 转自：https://docs.mongodb.com/master/tutorial/install-mongodb-on-os-x/?_ga=1.128744908.1590020553.1472522903
+description: 
 feature:
 ---
 
@@ -117,4 +117,6 @@ To run MongoDB, run the mongod process at the system prompt. If necessary, speci
 To help you start using MongoDB, MongoDB provides Getting Started Guides in various driver editions. See Getting Started for the available editions.
 Before deploying MongoDB in a production environment, consider the Production Notes document.
 Later, to stop MongoDB, press Control+C in the terminal where the mongod instance is running.
+
+转自：https://docs.mongodb.com/master/tutorial/install-mongodb-on-os-x/?_ga=1.128744908.1590020553.1472522903
 
