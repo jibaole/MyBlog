@@ -30,12 +30,20 @@
                 </div>
             <% } %>
             <%- post.content %>
+            <div class="support-author">
+                <p class="support-talk" >如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！</p>
+                <div name="dashmain" id="dash-main-id-878e3a" class="dash-main-2 878e3a-2"></div>
+                <script type="text/javascript" charset="utf-8" src="http://www.dashangcloud.com/static/ds.js"></script>
+            </div>
         <% } %>
+
         </div>
+        
         <footer class="article-footer">
             <%- partial('share/index', { post: post }) %>
             <%- partial('comment/counter', { post: post }) %>
         </footer>
+
     </div>
     <% if (!index) { %>
         <%- partial('post/nav') %>

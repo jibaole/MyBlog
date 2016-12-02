@@ -1,5 +1,5 @@
 ---
-title: best icon themes for ubuntu 14.04&15.10
+title: best icon themes for ubuntu 14.04 and 15.10
 tags:
   - ubuntu
 categories:
