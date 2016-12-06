@@ -36,6 +36,7 @@ toc: true
 * Xmind
 * 搜狗输入法
 * Unity
+* Toad(数据库管理工具，支持mysql、Oracle、postgresql、mongodb)
 
 ### Windows
 

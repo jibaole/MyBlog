@@ -26,7 +26,6 @@ keywords:
 description: 
     - logtous.com
 toc: true
-thumbnail: http://s3.sinaimg.cn/mw690/001Frf1Dzy6HI2IG3MS92
-banner: http://s3.sinaimg.cn/mw690/001Frf1Dzy6HI2IG3MS92
+thumbnail: 
+banner: 
 ---
-
