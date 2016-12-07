@@ -31,7 +31,7 @@
             <% } %>
             <%- post.content %>
             
-            <% if (!index && post.comments) { %>
+            <% if (!index && post.layout != 'page') { %>
                 <%- partial('dashangcloud', { post: post }) %>
             <% } %>
         <% } %>
