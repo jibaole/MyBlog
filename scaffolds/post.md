@@ -21,6 +21,7 @@ categories:
     - Web development
     - Web server
     - Monitoring technology
+    - SEO
 keywords: 
     - hexo
 description: 

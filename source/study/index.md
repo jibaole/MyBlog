@@ -20,6 +20,8 @@ https://www.ubuntu.com/cloud
 http://wenku.baidu.com/link?url=OvGnuFH_OraGCDOQA1INOHu8WRsQ7fPLDLE0Wp229fMnJApPlNAmg6HAa2mob1uT5QGh8kMxS5MSno6rCcV5R33wYHFGVQAv9TRv9YNOBvq
 * Parse Server 与 Firebase 谁更好,你选用哪一边? 
 https://www.oschina.net/question/2829754_2185238?fromerr=4Bn16uMN
+
+### 虚拟化
 * DevStack
 http://docs.openstack.org/developer/devstack/
 * Xen

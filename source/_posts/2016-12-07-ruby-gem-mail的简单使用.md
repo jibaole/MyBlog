@@ -38,4 +38,5 @@ mail = Mail.new do
 end
 mail.deliver!
 ```
+<!-- more -->
 实现了发送带附件邮件的功能.
