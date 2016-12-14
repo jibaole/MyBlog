@@ -28,7 +28,7 @@ toc: true
 * QQ音乐
 * ShadowsocksX
 * SnailSVN Free
-* Sublime Text
+* [Sublime Text](http://www.kuqin.com/shuoit/20141111/343163.html)
 * VirtualBox
 * VLC
 * XAMPP

@@ -22,6 +22,7 @@ categories:
     - Web server
     - Monitoring technology
     - SEO
+    - Reading
 keywords: 
     - hexo
 description: 

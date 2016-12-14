@@ -122,7 +122,21 @@ http://www.mycodes.net/
 http://blog.chinaunix.net/uid-21089721-id-2939433.html
 * 拨测系统探针端的设计与实现
 http://www.docin.com/p-1087194577.html
+* Linux系统中使用iptables实现nat地址转换
+http://www.server110.com/linux/201309/1417.html
+* iptables防火墙详解(二)SNAT和DNAT
+http://dengqi.blog.51cto.com/5685776/1264838/
+* 测试网络误码率、丢包率、流量等的方法 
+http://blog.chinaunix.net/uid-23964952-id-308307.html
+* iperf命令是一个网络性能测试工具
+http://man.linuxde.net/iperf
+* 用iperf测试网络丢包和延迟
+http://zephyr01.blog.sohu.com/119104919.html
 
+### 运维
+* haproxy+keepalived实现高可用负载均衡
+http://www.cnblogs.com/dkblog/archive/2011/07/06/2098949.html
+* 
 
 ### 其他
 * 薛涌，一个北大学生，为什么在耶鲁才学会读书和写作

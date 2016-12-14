@@ -12,8 +12,8 @@ description:
   - logtous.com
 toc: true
 date: 2016-12-07 14:49:24
-thumbnail: http://easyread.ph.126.net/JsQ-sb6ykhVhOxwLpNH4Sg==/6597140135402662092.jpg
-banner: http://easyread.ph.126.net/JsQ-sb6ykhVhOxwLpNH4Sg==/6597140135402662092.jpg
+thumbnail: http://7xtlfa.com1.z0.glb.clouddn.com/ruby.jpg
+banner: http://7xtlfa.com1.z0.glb.clouddn.com/ruby.jpg
 ---
 
 #### 安装mail gem

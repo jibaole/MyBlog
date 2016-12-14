@@ -50,6 +50,8 @@ http://mt.sohu.com/20160923/n469057300.shtml
 http://www.ccnovel.com/102508.html
 * 一家四口在纽约一居室挤爆了？他们才不是蜗居！
 http://news.qq.com/a/20161020/013227.htm
+* 如何让12平米的小房间显得温馨一点？
+https://www.zhihu.com/question/31580405?sort=created
 
 ### 健身
 * 100天啤酒肚变腹肌，这就是坚持的力量！
@@ -58,3 +60,5 @@ http://sports.sohu.com/20161116/n473337884.shtml
 ### 其他
 * 人类或不再需要眼镜 8分钟恢复视力
 http://www.cqcb.com/reading/2016-10-27/207366_pc_8.html
+* 【阿米& 图片】是这个男人，让我有了坚持做一件事的动力！
+http://tieba.baidu.com/p/4861597279
