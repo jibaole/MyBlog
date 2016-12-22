@@ -1,10 +1,22 @@
 index:
-    Home: '主页'
+    home: '主页'
     search: '搜索'
     archive: '归档'
     category: '分类'
     uncategorized: '未分类'
     tag: '标签'
+    more: '更多'
+    menumore:
+      about: '关于'
+      favorites: '网址收藏夹'
+      study: '学习'
+      tools: '工具'
+      books: '书籍'
+      music: '音乐'
+      video: '影视'
+      life: '生活'
+
+    
 nav:
     next: '下一页'
     prev: '上一页'
