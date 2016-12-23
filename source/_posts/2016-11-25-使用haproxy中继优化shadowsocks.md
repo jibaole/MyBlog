@@ -36,14 +36,14 @@ frontend ss-in-us-50000
         default_backend ss-out-us-50000
 
 backend ss-out-us-50000
-        server server1 us01.logtous.com:50000 maxconn 20480
+        server server1 us01.blog.whichmyhouse.com:50000 maxconn 20480
 
 frontend ss-in-hk-50000
         bind *:40001
         default_backend ss-out-hk-50000
 
 backend ss-out-hk-50000
-        server server1 hk01.logtous.com:50000 maxconn 20480
+        server server1 hk01.blog.whichmyhouse.com:50000 maxconn 20480
 ```
 <!-- more -->
 #### 启动haproxy

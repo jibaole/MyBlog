@@ -26,7 +26,7 @@ categories:
 keywords: 
     - hexo
 description: 
-    - logtous.com
+    - blog.whichmyhouse.com
 toc: true
 thumbnail: 
 banner: 

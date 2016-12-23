@@ -9,5 +9,5 @@ Disallow: /fonts/
 Disallow: /libs/
 
 
-Sitemap: https://blog.whichmyhouse.com/sitemap.xml
-Sitemap: https://blog.whichmyhouse.com/baidusitemap.xml
+Sitemap: http://blog.whichmyhouse.com/sitemap.xml
+Sitemap: http://blog.whichmyhouse.com/baidusitemap.xml

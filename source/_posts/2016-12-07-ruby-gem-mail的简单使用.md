@@ -9,7 +9,7 @@ keywords:
   - mail
   - gem
 description:
-  - logtous.com
+  - blog.whichmyhouse.com
 toc: true
 date: 2016-12-07 14:49:24
 thumbnail: http://7xtlfa.com1.z0.glb.clouddn.com/ruby.jpg
