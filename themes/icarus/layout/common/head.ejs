@@ -2,6 +2,7 @@
 <html<%= config.language ? " lang=" + config.language.substring(0, 2) : ""%>>
 <head>
     <meta charset="utf-8">
+    <meta name="baidu-site-verification" content="wRXY30BI3E" />
     <%
         function capitalize (str) { return str.charAt(0).toUpperCase() + str.substring(1).toLowerCase() }
         var title = page.title;
@@ -30,7 +31,7 @@
     <%- meta(page) %>
 
     <% if (theme.customize && theme.customize.social_links && theme.customize.social_links.rss) { %>
-        <link rel="alternate" href="<%- theme.customize.social_links.rss %>" title="<%= config.title %>" type="application/atom+xml" />
+        <link rel="alternate" href="<%- theme.customize.social_links.rss %>" hreflang="zh-Hans" title="<%= config.title %>" type="application/atom+xml" />
     <% } %>
 
     <% if (theme.customize.favicon) { %>
