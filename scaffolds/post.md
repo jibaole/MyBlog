@@ -23,10 +23,16 @@ categories:
     - Monitoring technology
     - SEO
     - Reading
+    - 影视节目
+    - Soho
+    - 学习
+    - 阅读
+    - 工作
+    - 生活
 keywords: 
     - hexo
 description: 
-    - blog.whichmyhouse.com
+    - hexo
 toc: true
 thumbnail: 
 banner: 
