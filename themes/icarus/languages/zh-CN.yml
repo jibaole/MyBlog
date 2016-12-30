@@ -15,6 +15,10 @@ index:
       music: '音乐'
       video: '影视'
       life: '生活'
+      soho: 'soho'
+      car: '汽车'
+      jikelife: '极客人生'
+      opensource: '开源'
 
     
 nav:

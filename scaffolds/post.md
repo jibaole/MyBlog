@@ -29,6 +29,7 @@ categories:
     - 阅读
     - 工作
     - 生活
+    - 硬件设备
 keywords: 
     - hexo
 description: 

@@ -1,6 +1,6 @@
 ---
 title: {{ title }}
-layout: {{ title }}
+layout: page
 comments: false
 toc: true
 ---

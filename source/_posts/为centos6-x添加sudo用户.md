@@ -1,9 +1,12 @@
 ---
 title: 为centos6.x添加sudo用户
 tags:
+  - centos
+  - sudo
 categories:
   - Linux server
 description: 
+  - centos sudo
 toc: true
 date: 2011-11-08 16:40:55
 feature:

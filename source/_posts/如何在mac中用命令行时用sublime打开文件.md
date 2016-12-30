@@ -7,18 +7,18 @@ categories:
 toc: true
 date: 2014-11-15 10:22:58
 description: 
+   - sublime text
+   - macos
 feature:
 ---
 
 如果是在默认shell下
 ``` bash
-sudo ln -s "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 ```
 使用zsh的可以使用以下命令
 ``` bash
-alias subl="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
-alias nano="subl"
-export EDITOR="subl"
+export EDITOR='subl -w'
 ```
 
-转自：https://segmentfault.com/q/1010000002397241
+转自：https://www.sublimetext.com/docs/3/osx_command_line.html
