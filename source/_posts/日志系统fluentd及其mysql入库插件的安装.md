@@ -6,7 +6,12 @@ categories:
   - Big Data technology
 toc: true
 date: 2016-03-11 10:54:16
-description: 记录fluentd及其mysql入库插件fluent-plugin-mysql-load的安装方法
+description: 
+  - fluentd
+  - mysql
+keywords:
+  - fluentd
+  - mysql
 feature:
 ---
 ### 安装步骤

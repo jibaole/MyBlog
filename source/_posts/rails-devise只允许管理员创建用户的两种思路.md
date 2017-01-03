@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: false
 date: 2016-06-18 15:55:23
+keywords:
+  - rails
+  - devise
 description:
+  - rails
+  - devise
 feature:
 ---
 

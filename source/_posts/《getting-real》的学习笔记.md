@@ -7,6 +7,11 @@ categories:
 toc: true
 date: 2016-04-15 17:33:39
 description:
+  - getting real
+  - 学习笔记
+keywords:
+  - getting real
+  - 学习笔记
 feature:
 ---
 

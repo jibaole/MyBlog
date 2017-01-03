@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2015-05-14 14:54:38
-description:
+description: 
+  - mysql
+  - definer
+keywords:
+  - mysql
+  - definer
 feature:
 ---
 

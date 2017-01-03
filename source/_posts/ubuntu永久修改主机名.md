@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: true
 date: 2012-11-18 15:42:06
-description: 
+keywords:
+  - ubuntu
+  - 主机名
+description:
+  - ubuntu
+  - 主机名
 feature:
 ---
 

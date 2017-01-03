@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: true
 date: 2015-11-18 15:34:08
+keywords:
+  - ubuntu
+  - theme
 description:
+  - ubuntu
+  - theme
 feature:
 ---
 

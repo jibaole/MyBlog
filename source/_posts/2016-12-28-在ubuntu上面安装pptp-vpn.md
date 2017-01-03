@@ -9,7 +9,9 @@ keywords:
   - vpn
   - ubuntu
 description:
-  - ubuntu pptp vpn
+  - pptp
+  - vpn
+  - ubuntu
 toc: true
 date: 2016-12-28 15:16:52
 thumbnail:

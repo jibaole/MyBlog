@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: true
 date: 2016-05-15 11:37:05
-description: 
+keywords:
+  - rails
+  - postgresql
+description:
+  - rails
+  - postgresql
 feature:
 ---
 

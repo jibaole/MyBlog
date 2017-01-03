@@ -6,6 +6,13 @@ categories:
 toc: true
 date: 2016-11-22 11:38:22
 description: 
+  - ubuntu
+  - static ip
+  - dns
+keywords:
+  - ubuntu
+  - static ip
+  - dns
 feature:
 ---
 

@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: true
 date: 2016-08-18 15:44:12
+keywords:
+  - rails
+  - cookies
+  - session
 description:
+  - rails
+  - cookies
+  - session
 feature:
 ---
 

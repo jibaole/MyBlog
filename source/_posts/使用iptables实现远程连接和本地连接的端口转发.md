@@ -5,7 +5,16 @@ categories:
   - Network proxy
 toc: true
 date: 2011-08-11 11:37:56
-description: 因为iptables在处理本地连接和远程连接的方法不同，所以需要分开处理
+description: 
+  - iptables
+  - 远程连接
+  - 本地连接
+  - 端口转发
+keywords:
+  - iptables
+  - 远程连接
+  - 本地连接
+  - 端口转发
 feature:
 ---
 

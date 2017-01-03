@@ -9,7 +9,12 @@ description:
   - centos sudo
 toc: true
 date: 2011-11-08 16:40:55
+keywords:
+  - centos
+  - sudo
 feature:
+  - centos
+  - sudo
 ---
 
 #### 添加用户

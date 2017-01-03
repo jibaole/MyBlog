@@ -6,7 +6,12 @@ categories:
   - Version control
 toc: true
 date: 2015-11-21 10:13:15
-description: 
+keywords:
+  - git
+  - ignore
+description:
+  - git
+  - ignore
 feature:
 ---
 

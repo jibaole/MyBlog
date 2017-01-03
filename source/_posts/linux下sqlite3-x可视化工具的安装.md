@@ -6,7 +6,14 @@ categories:
   - Database
 toc: true
 date: 2016-08-18 10:48:27
-description: 
+keywords:
+  - linux
+  - sqlite
+  - 可视化工具
+description:
+  - linux
+  - sqlite
+  - 可视化工具
 feature:
 ---
 

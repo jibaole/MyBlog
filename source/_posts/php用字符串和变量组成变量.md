@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: false
 date: 2015-07-17 11:10:05
-description: 
+keywords:
+  - php
+  - 字符串
+  - 变量
+description:
+  - php
+  - 字符串
+  - 变量
 feature:
 ---
 

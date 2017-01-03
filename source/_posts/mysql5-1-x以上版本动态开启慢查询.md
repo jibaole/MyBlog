@@ -6,7 +6,12 @@ categories:
   - Database
 toc: false
 date: 2013-11-17 16:30:03
-description: 
+keywords:
+  - mysql
+  - 慢查询
+description:
+  - mysql
+  - 慢查询
 feature:
 ---
 

@@ -3,7 +3,12 @@ title: linux添加虚拟网卡的两种方法
 tags:
 categories:
   - Linux server
-description: 记录linux添加虚拟网卡的两种方法
+keywords:
+  - linux
+  - 虚拟网卡
+description:
+  - linux
+  - 虚拟网卡
 toc: true
 date: 2011-08-09 16:57:54
 feature:

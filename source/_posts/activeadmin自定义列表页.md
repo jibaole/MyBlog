@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: true
 date: 2016-07-18 10:54:44
-description: 
+keywords:
+  - rails
+  - activeadmin
+  - 自定义列表
+description:
+  - rails
+  - activeadmin
+  - 自定义列表
 feature:
 ---
 

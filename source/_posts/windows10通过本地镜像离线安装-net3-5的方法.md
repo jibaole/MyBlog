@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: true
 date: 2015-01-14 15:26:44
+keywords:
+  - windows10
+  - .net3.5
 description:
+  - windows10
+  - .net3.5
 feature:
 ---
 >很多程序都需要.Net 3.5的支持，而Windows 8/8.1、以及现在的Windows 10，默认都是没有启用.NET 3.5的。如果你运行某个程序，它需要这个组件的支持，那么它会提醒你下载，这个是在线下载的，实际上下载速度很慢。而再添加功能里，启用.net 3.5同样是在线下载，很慢。于是我们依然用之前操作Windows 8的方法，通过本地镜像来离线安装.NET 3.5。

@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2015-08-15 14:28:24
-description: 
+keywords:
+  - linux
+  - mysql5.6
+description:
+  - linux
+  - mysql5.6
 feature:
 ---
 

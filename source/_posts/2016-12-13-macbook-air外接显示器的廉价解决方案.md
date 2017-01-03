@@ -11,7 +11,11 @@ keywords:
   - 外接显示器
   - 廉价
 description:
-  - blog.whichmyhouse.com
+  - mac
+  - macbook
+  - macbook air
+  - 外接显示器
+  - 廉价
 toc: true
 date: 2016-12-13 18:55:50
 thumbnail: http://7xtlfa.com1.z0.glb.clouddn.com/mac_dp.JPG

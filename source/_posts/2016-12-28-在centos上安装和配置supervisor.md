@@ -5,9 +5,11 @@ tags:
 categories:
   - Linux server
 keywords:
-  - hexo
+  - centos
+  - supervisor
 description:
-  - hexo
+  - centos
+  - supervisor
 toc: true
 date: 2016-12-28 15:47:32
 thumbnail:

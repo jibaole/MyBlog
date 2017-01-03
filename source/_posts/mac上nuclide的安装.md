@@ -6,7 +6,14 @@ categories:
   - Mobile development
 toc: true
 date: 2016-10-21 11:30:46
-description: 
+keywords:
+  - mac
+  - nuclide
+  - react native
+description:
+  - mac
+  - nuclide
+  - react native
 feature:
 ---
 

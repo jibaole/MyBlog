@@ -3,7 +3,10 @@ title: iptables的配置详解
 tags:
 categories:
   - Linux server
-description: 记录iptables的详细使用方法
+keywords:
+  - iptables
+description:
+  - iptables
 toc: true
 date: 2014-06-09 16:50:11
 feature:

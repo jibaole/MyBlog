@@ -6,7 +6,12 @@ categories:
   - Database
 toc: false
 date: 2015-06-21 14:27:02
-description: 
+keywords:
+  - mysql
+  - 安全
+description:
+  - mysql
+  - 安全
 feature:
 ---
 

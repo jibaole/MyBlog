@@ -9,7 +9,9 @@ keywords:
   - 扩展名
   - 默认语法
 description:
-  - sublime text 设置扩展名的默认语法
+  - sublime text
+  - 扩展名
+  - 默认语法
 toc: false
 date: 2016-12-28 15:26:32
 thumbnail:

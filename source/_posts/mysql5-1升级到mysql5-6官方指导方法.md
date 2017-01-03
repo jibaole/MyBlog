@@ -6,7 +6,12 @@ categories:
   - Database
 toc: false
 date: 2015-11-14 17:14:47
+keywords:
+  - mysql
+  - 升级
 description:
+  - mysql
+  - 升级
 feature:
 ---
 A MySQL server package (mysql-server-5.1.73-5.el6_7.1.x86_64) is installed.

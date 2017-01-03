@@ -6,7 +6,12 @@ categories:
   - Network proxy
 toc: true
 date: 2016-11-25 16:59:04
-description: 记录使用haproxy做中继来优化shadowsocks
+description: 
+  - haproxy
+  - shadowsocks
+keywords:
+  - haproxy
+  - shadowsocks
 feature:
 ---
 

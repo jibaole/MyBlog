@@ -6,7 +6,14 @@ categories:
   - Web server
 toc: true
 date: 2015-04-15 16:21:34
+keywords:
+  - nginx
+  - 反向代理
+  - 负载均衡
 description:
+  - nginx
+  - 反向代理
+  - 负载均衡
 feature:
 ---
 

@@ -5,7 +5,16 @@ categories:
   - Linux server
 toc: true
 date: 2014-07-17 15:42:13
+keywords:
+  - linux
+  - jdk
+  - jboss
+  - db2
 description:
+  - linux
+  - jdk
+  - jboss
+  - db2
 feature:
 ---
 

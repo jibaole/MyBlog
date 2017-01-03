@@ -10,7 +10,10 @@ keywords:
   - hexo
   - 主题
 description:
-  - blog.whichmyhouse.com
+  - blog
+  - 博客
+  - hexo
+  - 主题
 toc: true
 date: 2016-12-13 16:15:44
 thumbnail:

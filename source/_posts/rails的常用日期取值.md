@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: true
 date: 2016-06-21 11:02:26
-description: 
+keywords:
+  - rails
+  - 日期
+description:
+  - rails
+  - 日期
 feature: 
 ---
 

@@ -6,7 +6,12 @@ categories:
   - Virtualization technology
 toc: true
 date: 2015-06-18 15:13:38
-description: 
+keywords:
+  - docker
+  - daemon
+description:
+  - docker
+  - daemon
 feature:
 ---
 

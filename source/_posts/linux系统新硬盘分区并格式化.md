@@ -3,7 +3,14 @@ title: linux系统新硬盘分区并格式化
 tags:
 categories:
   - Linux server
-description: 
+keywords:
+  - linux
+  - 硬盘分区
+  - 格式化
+description:
+  - linux
+  - 硬盘分区
+  - 格式化
 toc: true 
 date: 2014-12-08 17:07:43
 feature: 

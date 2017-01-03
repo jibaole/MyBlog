@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: false
 date: 2015-04-17 11:05:55
+keywords:
+  - php
+  - memory
 description:
+  - php
+  - memory
 feature:
 ---
 

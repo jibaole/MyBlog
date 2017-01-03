@@ -6,7 +6,18 @@ categories:
   - Web development
 toc: false
 date: 2016-07-18 11:05:08
-description: 
+keywords:
+  - rails
+  - activeadmin
+  - model
+  - i18n
+  - 国际化
+description:
+  - rails
+  - activeadmin
+  - model
+  - i18n
+  - 国际化 
 feature:
 ---
 

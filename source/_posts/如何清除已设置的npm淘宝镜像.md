@@ -7,6 +7,13 @@ categories:
 toc: false
 date: 2015-11-21 13:52:20
 description: 
+  - npm
+  - 淘宝镜像
+  - 清除
+keywords:
+  - npm
+  - 淘宝镜像
+  - 清除
 feature:
 ---
 

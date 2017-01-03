@@ -7,6 +7,15 @@ categories:
 toc: true
 date: 2016-05-09 17:18:57
 description: 
+  - ruby
+  - gem
+  - source
+  - taobao
+keywords:
+  - ruby
+  - gem
+  - source
+  - taobao
 feature:
 ---
 

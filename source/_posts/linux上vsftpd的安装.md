@@ -6,7 +6,12 @@ categories:
   - Linux server
 toc: true
 date: 2013-11-14 11:22:31
+keywords:
+  - linux
+  - vsftpd
 description:
+  - linux
+  - vsftpd
 feature:
 ---
 

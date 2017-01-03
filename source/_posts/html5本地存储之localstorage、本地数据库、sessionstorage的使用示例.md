@@ -6,7 +6,16 @@ categories:
   - Frontend technology
 toc: true
 date: 2016-08-18 11:16:52
-description: 
+keywords:
+  - html5
+  - 本地存储
+  - localstorage
+  - sessionstorage
+description:
+  - html5
+  - 本地存储
+  - localstorage
+  - sessionstorage
 feature:
 ---
 

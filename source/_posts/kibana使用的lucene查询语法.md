@@ -6,7 +6,12 @@ categories:
   - Big Data technology
 toc: true
 date: 2016-04-15 16:24:35
-description: 
+keywords:
+  - kibana
+  - lucene
+description:
+  - kibana
+  - lucene
 feature:
 ---
 

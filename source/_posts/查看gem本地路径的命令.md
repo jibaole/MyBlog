@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: false
 date: 2016-06-15 17:17:27
-description:
+description: 
+  - rails
+  - gem
+  - 路径
+keywords:
+  - rails
+  - gem
+  - 路径
 feature:
 ---
 

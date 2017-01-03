@@ -6,7 +6,12 @@ categories:
   - Web server
 toc: true
 date: 2014-12-14 10:37:56
+keywords:
+  - centos
+  - lnmp
 description:
+  - centos
+  - lnmp
 feature:
 ---
 

@@ -5,7 +5,12 @@ categories:
   - Linux server
 toc: false
 date: 2015-06-14 16:33:02
+keywords:
+  - linux
+  - 调优
 description:
+  - linux
+  - 调优
 feature:
 ---
 

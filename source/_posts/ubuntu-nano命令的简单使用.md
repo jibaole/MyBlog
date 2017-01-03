@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: false
 date: 2013-11-18 16:00:56
+keywords:
+  - ubuntu
+  - nano
 description:
+  - ubuntu
+  - nano
 feature:
 ---
 nano是一个小巧自由，并且友好的编辑器，在大部分linux上都有nano命令。相对vi，不熟悉linux的我感觉nano要简单许多：

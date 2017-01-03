@@ -7,6 +7,13 @@ date: 2015-11-08 14:46:19
 tags:
   - git
 description: 
+  - git
+  - fork
+  - 同步
+keywords:
+  - git
+  - fork
+  - 同步
 feature:
 ---
 

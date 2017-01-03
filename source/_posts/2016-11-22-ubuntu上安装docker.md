@@ -7,6 +7,11 @@ categories:
 toc: true
 date: 2016-11-22 10:50:37
 description: 
+  - ubuntu
+  - docker
+keywords:
+  - ubuntu
+  - docker
 feature:
 ---
 

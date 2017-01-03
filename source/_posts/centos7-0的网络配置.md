@@ -5,7 +5,12 @@ categories:
 toc: true
 date: 2016-10-08 11:35:54
 tags:
-description: 
+keywords:
+  - centos7
+  - 网络配置
+description:
+  - centos7
+  - 网络配置
 feature:
 ---
 

@@ -5,7 +5,14 @@ categories:
   - Linux server
 toc: true
 date: 2014-11-16 16:32:40
+keywords:
+  - securecrt
+  - 密钥
+  - ssh
 description:
+  - securecrt
+  - 密钥
+  - ssh
 feature:
 ---
 

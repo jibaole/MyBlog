@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2015-03-14 16:42:44
+keywords:
+  - mysql
+  - 权限管理
 description:
+  - mysql
+  - 权限管理
 feature:
 ---
 

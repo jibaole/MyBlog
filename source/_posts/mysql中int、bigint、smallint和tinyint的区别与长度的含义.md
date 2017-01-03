@@ -6,7 +6,18 @@ categories:
   - Database
 toc: true
 date: 2016-07-17 16:26:31
+keywords:
+  - mysql
+  - init
+  - bigint
+  - smallint
+  - tinyint
 description:
+  - mysql
+  - init
+  - bigint
+  - smallint
+  - tinyint
 feature:
 ---
 

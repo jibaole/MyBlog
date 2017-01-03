@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: false
 date: 2014-11-18 16:13:23
-description: 
+keywords:
+  - macos
+  - brew
+description:
+  - macos
+  - brew
 feature:
 ---
 

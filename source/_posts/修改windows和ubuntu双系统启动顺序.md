@@ -5,7 +5,12 @@ categories:
   - Operating system
 toc: true
 date: 2012-11-14 10:30:56
-description: 默认启动项是ubuntu，那么应该如何修改默认启动顺序呢？
+description: 
+  - 双系统
+  - 启动顺序
+keywords:
+  - 双系统
+  - 启动顺序
 feature:
 ---
 

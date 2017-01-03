@@ -3,7 +3,12 @@ title: phpmyadmin连接多个mysql的配置方法
 tags:
 categories:
   - Development tools
-description: 
+keywords:
+  - phpmyadmin
+  - mysql
+description:
+  - phpmyadmin
+  - mysql
 toc: false
 date: 2013-11-09 15:16:07
 feature:

@@ -6,7 +6,14 @@ categories:
   - Big Data technology
 toc: false
 date: 2016-04-14 17:16:10
-description:
+description: 
+  - fluentd
+  - 时区
+  - timezone
+keywords:
+  - fluentd
+  - 时区
+  - timezone
 feature:
 ---
 

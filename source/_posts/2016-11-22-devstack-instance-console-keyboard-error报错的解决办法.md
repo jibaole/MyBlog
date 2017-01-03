@@ -7,6 +7,11 @@ categories:
 toc: false
 date: 2016-11-22 16:01:16
 description: 
+  - openstack
+  - devstack
+keywords:
+  - openstack
+  - devstack
 feature:
 ---
 

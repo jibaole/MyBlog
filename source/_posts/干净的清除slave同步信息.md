@@ -6,7 +6,14 @@ categories:
   - Database
 toc: true
 date: 2015-11-14 14:41:11
-description:
+description: 
+  - mysql
+  - slave
+  - 同步
+keywords:
+  - mysql
+  - slave
+  - 同步
 feature:
 ---
 

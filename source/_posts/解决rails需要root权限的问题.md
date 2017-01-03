@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: false
 date: 2016-06-15 17:11:46
-description:
+description: 
+  - rails
+  - root
+keywords:
+  - rails
+  - root
 feature:
 ---
 

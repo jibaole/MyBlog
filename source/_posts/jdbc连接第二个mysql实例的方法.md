@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2015-01-11 11:28:32
-description: 记录jdbc连接第二个实例的实现方法
+keywords:
+  - mysql
+  - jdbc
+description:
+  - mysql
+  - jdbc
 feature:
 ---
 

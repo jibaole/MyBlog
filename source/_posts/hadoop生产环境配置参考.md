@@ -6,7 +6,14 @@ categories:
   - Big Data technology
 toc: true
 date: 2015-11-14 17:20:05
-description: The following configuration should work relatively well for Druid indexing and Hadoop. In the example, we are using Hadoop 2.4 with EC2 m1.xlarge nodes for NameNodes and cc2.8xlarge nodes for DataNodes.
+keywords:
+  - hadoop
+  - 生产环境
+  - 配置
+description:
+  - hadoop
+  - 生产环境
+  - 配置
 feature:
 ---
 

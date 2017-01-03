@@ -6,7 +6,12 @@ categories:
   - Web server
 toc: false
 date: 2015-12-14 16:39:07
+keywords:
+  - nginx
+  - 配置
 description:
+  - nginx
+  - 配置
 feature:
 ---
 nginx.conf

@@ -6,7 +6,12 @@ categories:
   - Scripting language
 toc: true
 date: 2016-04-17 16:00:52
+keywords:
+  - ruby
+  - rvm
 description:
+  - ruby
+  - rvm
 feature:
 ---
 

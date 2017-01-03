@@ -7,6 +7,11 @@ categories:
 toc: true
 date: 2016-10-21 13:54:57
 description: 
+  - cocoapods
+  - 国内镜像
+keywords:
+  - cocoapods
+  - 国内镜像
 feature:
 ---
 

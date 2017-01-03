@@ -6,7 +6,16 @@ categories:
   - Monitoring technology
 toc: true
 date: 2012-05-14 16:55:50
+keywords:
+  - h3c
+  - 交换机
+  - snmp
+  - trap
 description:
+  - h3c
+  - 交换机
+  - snmp
+  - trap
 feature:
 ---
 

@@ -6,7 +6,14 @@ categories:
   - Web server
 toc: true
 date: 2013-11-16 16:22:30
+keywords:
+  - tomcat
+  - connector
+  - 运行模式
 description:
+  - tomcat
+  - connector
+  - 运行模式
 feature:
 ---
 

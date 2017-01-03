@@ -6,7 +6,12 @@ categories:
   - Scripting language
 toc: true
 date: 2014-09-14 17:04:25
+keywords:
+  - shell
+  - 特殊符号
 description:
+  - shell
+  - 特殊符号
 feature:
 ---
 

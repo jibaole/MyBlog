@@ -6,7 +6,12 @@ categories:
   - Others
 toc: true
 date: 2015-11-17 16:34:38
-description: 
+keywords:
+  - cors
+  - 跨域
+description:
+  - cors
+  - 跨域
 feature:
 ---
 

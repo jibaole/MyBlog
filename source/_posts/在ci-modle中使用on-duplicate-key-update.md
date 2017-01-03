@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: false
 date: 2015-11-17 11:12:11
-description:
+description: 
+  - ci
+  - model
+  - duplicate key
+keywords:
+  - ci
+  - model
+  - duplicate key
 feature:
 ---
 Was wondering if this could be added to the active record library its a very useful function for some sites.

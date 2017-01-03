@@ -6,7 +6,16 @@ categories:
   - Development tools
 toc: false
 date: 2016-04-17 16:40:02
-description: 
+keywords:
+  - sublime
+  - 语法高亮
+  - erb
+  - haml
+description:
+  - sublime
+  - 语法高亮
+  - erb
+  - haml
 feature:
 ---
 ```

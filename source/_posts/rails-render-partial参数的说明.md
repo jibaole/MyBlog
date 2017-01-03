@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: true
 date: 2016-09-18 11:20:03
-description: 
+keywords:
+  - rails
+  - render partial
+description:
+  - rails
+  - render partial
 feature:
 ---
 

@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: false
 date: 2016-03-15 15:48:48
+keywords:
+  - rails
+  - generate
 description:
+  - rails
+  - generate
 feature:
 ---
 

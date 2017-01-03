@@ -6,7 +6,12 @@ categories:
   - Development tools
 toc: true
 date: 2016-06-18 15:49:41
+keywords:
+  - atom
+  - 插件
 description:
+  - atom
+  - 插件
 feature:
 ---
 

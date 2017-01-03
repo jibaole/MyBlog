@@ -6,7 +6,12 @@ toc: true
 date: 2016-07-08 14:25:50
 tags:
   - postgresql
-description: 记录在centos6.x下postgresql9.5的安装与部署过程
+keywords:
+  - centos
+  - postgresql
+description:
+  - centos
+  - postgresql
 feature:
 ---
 

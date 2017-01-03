@@ -6,7 +6,12 @@ categories:
   - Mobile development
 toc: true
 date: 2016-10-21 10:20:16
-description: 
+keywords:
+  - ubuntu
+  - reactnative
+description:
+  - ubuntu
+  - reactnative
 feature:
 ---
 

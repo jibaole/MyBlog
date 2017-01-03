@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: true
 date: 2015-11-21 10:46:48
-description: 
+keywords:
+  - nodejs
+  - browserify
+description:
+  - nodejs
+  - browserify
 feature:
 ---
 

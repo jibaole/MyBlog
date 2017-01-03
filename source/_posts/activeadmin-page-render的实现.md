@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: false
 date: 2016-07-18 11:09:55
-description: 
+keywords:
+  - rails
+  - activeadmin
+  - page render
+description:
+  - rails
+  - activeadmin
+  - page render
 feature:
 ---
 

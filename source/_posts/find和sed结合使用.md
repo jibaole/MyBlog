@@ -6,7 +6,12 @@ categories:
   - Scripting language
 toc: true
 date: 2011-11-14 16:10:54
+keywords:
+  - find
+  - sed
 description:
+  - find
+  - sed
 feature:
 ---
 ``` shell

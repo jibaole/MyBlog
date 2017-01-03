@@ -6,7 +6,12 @@ categories:
   - Version control
 toc: true
 date: 2016-08-11 11:23:01
+keywords:
+  - gitlab
+  - git
 description:
+  - gitlab
+  - git
 feature:
 ---
 

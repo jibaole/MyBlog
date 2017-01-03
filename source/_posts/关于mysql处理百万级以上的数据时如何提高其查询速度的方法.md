@@ -7,6 +7,11 @@ categories:
 toc: false 
 date: 2015-05-15 10:13:50
 description: 
+  - mysql
+  - 查询速度
+keywords:
+  - mysql
+  - 查询速度
 feature:
 ---
 

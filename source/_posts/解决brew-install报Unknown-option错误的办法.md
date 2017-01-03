@@ -7,6 +7,11 @@ date: 2016-05-08 15:25:55
 tags:
   - macos
 description: 
+  - brew
+  - Unknown option
+keywords:
+  - brew
+  - Unknown option
 feature:
 ---
 

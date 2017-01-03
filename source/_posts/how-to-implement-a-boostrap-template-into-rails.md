@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: true
 date: 2016-08-18 15:29:10
-description: 
+keywords:
+  - rails
+  - bootstrap
+description:
+  - rails
+  - bootstrap
 feature:
 ---
 

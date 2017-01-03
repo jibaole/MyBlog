@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: false
 date: 2014-11-17 11:17:38
+keywords:
+  - windows
+  - efi
 description:
+  - windows
+  - efi
 feature:
 ---
 

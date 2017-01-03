@@ -6,7 +6,14 @@ categories:
   - Web server
 toc: true
 date: 2015-12-14 16:24:00
-description: 
+keywords:
+  - mysql
+  - nginx
+  - flv
+description:
+  - mysql
+  - nginx
+  - flv
 feature:
 ---
 

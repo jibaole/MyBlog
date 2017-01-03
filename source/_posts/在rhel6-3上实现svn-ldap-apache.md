@@ -7,6 +7,13 @@ categories:
 toc: true
 date: 2015-10-14 10:45:56
 description: 
+  - rhel6.3
+  - svn
+  - ldap
+keywords:
+  - rhel6.3
+  - svn
+  - ldap
 feature:
 ---
 

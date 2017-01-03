@@ -6,7 +6,12 @@ categories:
   - Virtualization technology
 toc: true
 date: 2013-11-09 17:17:50
-description: 
+keywords:
+  - vmware workstation
+  - 锁定
+description:
+  - vmware workstation
+  - 锁定
 feature:
 ---
 

@@ -5,7 +5,12 @@ categories:
   - Linux server
 toc: true
 date: 2016-04-14 18:07:41
+keywords:
+  - centos
+  - supervisord
 description:
+  - centos
+  - supervisord
 feature:
 ---
 

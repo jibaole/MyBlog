@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: false
 date: 2015-05-14 15:16:12
+keywords:
+  - centos
+  - php5.6
 description:
+  - centos
+  - php5.6
 feature:
 ---
 CentOs 6.x

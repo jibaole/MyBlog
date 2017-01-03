@@ -7,8 +7,13 @@ categories:
 toc: true
 date: 2014-11-15 10:22:58
 description: 
-   - sublime text
-   - macos
+  - mac
+  - sublime
+  - 命令行
+keywords:
+  - mac
+  - sublime
+  - 命令行
 feature:
 ---
 

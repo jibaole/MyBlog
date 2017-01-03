@@ -6,7 +6,12 @@ categories:
   - Version control
 toc: true
 date: 2015-11-16 14:19:47
+keywords:
+  - git
+  - 1.8
 description:
+  - git
+  - 1.8
 feature:
 ---
 #### 1.Download PUIAS repo

@@ -4,7 +4,14 @@ tags:
   - rails
 categories:
   - Web development
-description: 
+keywords:
+  - rails
+  - secret_token
+  - secret_key_base
+description:
+  - rails
+  - secret_token
+  - secret_key_base
 toc: false
 date: 2016-10-09 14:39:38
 feature:

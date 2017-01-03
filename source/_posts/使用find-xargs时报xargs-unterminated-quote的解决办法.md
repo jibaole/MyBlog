@@ -7,6 +7,12 @@ categories:
 toc: true
 date: 2014-07-18 16:34:04
 description: 
+  - find
+  - xargs
+keywords:
+  - find
+  - xargs
+  - xargs unterminated quote
 feature:
 ---
 

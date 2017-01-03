@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2016-04-17 16:03:20
-description: 
+keywords:
+  - mysql
+  - load-data
+description:
+  - mysql
+  - load-data
 feature:
 ---
 

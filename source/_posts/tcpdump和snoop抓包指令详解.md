@@ -6,7 +6,14 @@ categories:
   - Scripting language
 toc: true
 date: 2013-06-14 17:10:52
-description: 抓包命令需要在root用户下执行
+keywords:
+  - tcpdump
+  - snoop
+  - 抓包
+description:
+  - tcpdump
+  - snoop
+  - 抓包
 feature:
 ---
 

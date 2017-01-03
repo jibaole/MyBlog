@@ -6,7 +6,18 @@ categories:
   - Others
 toc: true
 date: 2016-04-21 11:33:35
-description: 
+keywords:
+  - io
+  - 同步
+  - 异步
+  - 阻塞
+  - 非阻塞
+description:
+  - io
+  - 同步
+  - 异步
+  - 阻塞
+  - 非阻塞
 feature:
 ---
 

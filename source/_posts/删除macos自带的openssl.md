@@ -5,6 +5,11 @@ tags:
 categories:
   - Operating system
 description: 
+  - macos
+  - openssl
+keywords:
+  - macos
+  - openssl
 toc: true
 date: 2014-11-09 17:00:55
 feature:

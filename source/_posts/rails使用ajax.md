@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: true
 date: 2016-08-18 11:42:08
+keywords:
+  - rails
+  - ajax
 description:
+  - rails
+  - ajax
 feature:
 ---
 

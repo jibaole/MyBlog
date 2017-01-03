@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2015-11-21 11:36:20
-description: 
+keywords:
+  - macos
+  - mongodb
+description:
+  - macos
+  - mongodb
 feature:
 ---
 

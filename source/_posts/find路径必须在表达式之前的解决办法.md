@@ -6,7 +6,12 @@ categories:
   - Scripting language
 toc: true
 date: 2015-11-21 10:10:20
-description: 
+keywords:
+  - shell
+  - find
+description:
+  - shell
+  - find
 feature:
 ---
 

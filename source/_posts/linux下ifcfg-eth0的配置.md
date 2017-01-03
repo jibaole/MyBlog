@@ -5,7 +5,14 @@ categories:
   - Linux server
 toc: true
 date: 2011-07-14 17:06:11
+keywords:
+  - linux
+  - 网卡配置
+  - ifcfg
 description:
+  - linux
+  - 网卡配置
+  - ifcfg
 feature:
 ---
 

@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2015-05-14 11:36:52
+keywords:
+  - mysql
+  - cpu
 description:
+  - mysql
+  - cpu
 feature:
 ---
 

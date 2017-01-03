@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: false
 date: 2016-07-18 11:14:10
-description: 
+keywords:
+  - rails
+  - activeadmin
+  - dashboard
+description:
+  - rails
+  - activeadmin
+  - dashboard
 feature:
 ---
 

@@ -5,7 +5,12 @@ categories:
   - Linux server
 toc: true
 date: 2015-11-14 10:33:45
+keywords:
+  - centos
+  - epel
 description:
+  - centos
+  - epel
 feature:
 ---
 

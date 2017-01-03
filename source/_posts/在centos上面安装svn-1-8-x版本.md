@@ -5,6 +5,13 @@ tags:
 categories:
   - Version control
 description: 
+  - centos
+  - svn
+  - 1.8
+keywords:
+  - centos
+  - svn
+  - 1.8
 toc: true
 date: 2015-11-09 17:13:34
 feature:

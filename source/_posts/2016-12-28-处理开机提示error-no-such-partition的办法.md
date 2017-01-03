@@ -8,7 +8,8 @@ keywords:
   - windows
   - no such partition
 description:
-  - windows error:no such partition
+  - windows
+  - no such partition
 toc: true
 date: 2016-12-28 15:10:23
 thumbnail:

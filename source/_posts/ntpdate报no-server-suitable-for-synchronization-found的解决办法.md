@@ -5,7 +5,12 @@ categories:
   - Linux server
 toc: true
 date: 2013-11-16 17:09:28
+keywords:
+  - ntpdate
+  - synchronization
 description:
+  - ntpdate
+  - synchronization
 feature:
 ---
 

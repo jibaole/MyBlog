@@ -9,7 +9,9 @@ keywords:
   - push
   - modified content
 description:
-  - blog.whichmyhouse.com
+  - git
+  - push
+  - modified content
 toc: true
 date: 2016-12-13 17:24:02
 thumbnail:

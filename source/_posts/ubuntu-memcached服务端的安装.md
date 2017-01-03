@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2015-11-18 15:53:13
+keywords:
+  - ubuntu
+  - memcached
 description:
+  - ubuntu
+  - memcached
 feature:
 ---
 

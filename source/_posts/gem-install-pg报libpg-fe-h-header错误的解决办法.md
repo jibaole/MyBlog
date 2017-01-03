@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: true
 date: 2016-04-15 17:29:38
+keywords:
+  - rails
+  - pg
 description:
+  - rails
+  - pg
 feature:
 ---
 

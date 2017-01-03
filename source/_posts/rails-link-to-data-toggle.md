@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: false
 date: 2016-08-18 15:23:47
-description: 
+keywords:
+  - rails
+  - link_to
+  - data-toggle
+description:
+  - rails
+  - link_to
+  - data-toggle
 feature:
 ---
 ```

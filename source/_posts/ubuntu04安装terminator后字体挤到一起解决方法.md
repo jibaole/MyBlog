@@ -6,7 +6,14 @@ categories:
   - Operating system
 toc: false
 date: 2015-11-15 17:00:46
+keywords:
+  - ubuntu
+  - 14.04
+  - terminator
 description:
+  - ubuntu
+  - 14.04
+  - terminator
 feature:
 ---
 

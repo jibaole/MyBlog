@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: false
 date: 2014-11-18 16:06:59
-description: 
+keywords:
+  - macos
+  - 默认打开方式
+description:
+  - macos
+  - 默认打开方式
 feature:
 ---
 

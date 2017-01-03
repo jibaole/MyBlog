@@ -6,7 +6,16 @@ categories:
   - Others
 toc: true
 date: 2014-11-17 16:51:28
+keywords:
+  - google浏览器
+  - chrome
+  - vimium
+  - 快捷键
 description:
+  - google浏览器
+  - chrome
+  - vimium
+  - 快捷键
 feature:
 ---
 

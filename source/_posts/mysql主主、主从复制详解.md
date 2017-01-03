@@ -6,7 +6,14 @@ categories:
   - Database
 toc: true
 date: 2015-06-17 10:47:19
-description: 
+keywords:
+  - mysql
+  - 主从
+  - 主主
+description:
+  - mysql
+  - 主从
+  - 主主
 feature:
 ---
 

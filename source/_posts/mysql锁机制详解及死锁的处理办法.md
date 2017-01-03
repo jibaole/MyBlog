@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2014-03-17 10:59:40
-description: 为了给高并发情况下的MySQL进行更好的优化，有必要了解一下MySQL查询更新时的锁表机制
+keywords:
+  - mysql
+  - 死锁
+description:
+  - mysql
+  - 死锁
 feature:
 ---
 

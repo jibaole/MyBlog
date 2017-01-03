@@ -5,7 +5,12 @@ categories:
   - Linux server
 toc: false
 date: 2015-11-16 17:21:50
+keywords:
+  - kali
+  - ssh
 description:
+  - kali
+  - ssh
 feature:
 ---
 

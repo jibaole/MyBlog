@@ -6,7 +6,14 @@ categories:
   - Database
 toc: false
 date: 2013-11-17 10:36:55
+keywords:
+  - mysql
+  - 分组
+  - 排序
 description:
+  - mysql
+  - 分组
+  - 排序
 feature:
 ---
 

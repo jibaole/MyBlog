@@ -6,7 +6,12 @@ categories:
   - Scripting language
 toc: true
 date: 2014-07-14 15:20:03
+keywords:
+  - shell
+  - 文本
 description:
+  - shell
+  - 文本
 feature:
 ---
 

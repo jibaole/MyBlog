@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2015-05-17 10:56:16
+keywords:
+  - mysql
+  - 中文乱码
 description:
+  - mysql
+  - 中文乱码
 feature:
 ---
 

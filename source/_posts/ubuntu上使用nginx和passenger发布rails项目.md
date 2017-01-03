@@ -6,7 +6,16 @@ categories:
   - Web development
 toc: true
 date: 2016-09-21 11:07:16
-description: 
+keywords:
+  - ubuntu
+  - rails
+  - nginx
+  - passenger
+description:
+  - ubuntu
+  - rails
+  - nginx
+  - passenger
 feature:
 ---
 

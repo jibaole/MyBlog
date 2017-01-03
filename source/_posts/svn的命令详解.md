@@ -6,7 +6,12 @@ categories:
   - Version control
 toc: true
 date: 2013-11-15 16:45:32
-description: 
+keywords:
+  - svn
+  - 命令
+description:
+  - svn
+  - 命令
 feature:
 ---
 

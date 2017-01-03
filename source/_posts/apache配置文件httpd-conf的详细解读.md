@@ -6,7 +6,12 @@ categories:
   - Web server
 toc: true
 date: 2015-03-11 14:45:23
-description: 
+keywords:
+  - apache
+  - httpd.conf
+description:
+  - apache
+  - httpd.conf
 feature:
 ---
 

@@ -6,7 +6,14 @@ categories:
   - Operating system
 toc: false
 date: 2015-06-17 11:36:11
+keywords:
+  - godaddy
+  - 域名
+  - nameserver
 description:
+  - godaddy
+  - 域名
+  - nameserver
 feature:
 ---
 ```

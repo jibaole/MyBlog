@@ -7,6 +7,11 @@ categories:
 toc: true
 date: 2016-11-22 10:16:56
 description: 
+  - centos
+  - postgresql
+keywords:
+  - centos
+  - postgresql
 feature:
 ---
 

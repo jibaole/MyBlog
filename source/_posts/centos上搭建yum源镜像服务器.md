@@ -5,7 +5,14 @@ categories:
   - Linux server
 toc: true
 date: 2014-07-16 16:49:58
-description: 
+keywords:
+  - centos
+  - yum
+  - 镜像
+description:
+  - centos
+  - yum
+  - 镜像
 feature:
 ---
 

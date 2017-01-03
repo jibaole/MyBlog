@@ -6,7 +6,14 @@ categories:
   - Web server
 toc: true
 date: 2013-11-16 14:32:29
+keywords:
+  - tomcat
+  - 优化
+  - 内存监控
 description:
+  - tomcat
+  - 优化
+  - 内存监控
 feature:
 ---
 

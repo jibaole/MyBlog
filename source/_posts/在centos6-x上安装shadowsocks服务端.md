@@ -5,6 +5,13 @@ tags:
 categories:
   - Network proxy
 description: 
+  - centos
+  - shadowsocks
+  - 安装
+keywords:
+  - centos
+  - shadowsocks
+  - 安装
 toc: true
 date: 2016-10-08 16:19:09
 feature:

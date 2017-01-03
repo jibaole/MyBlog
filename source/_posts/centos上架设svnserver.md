@@ -6,7 +6,12 @@ categories:
   - Version control
 toc: true
 date: 2015-11-14 10:56:05
-description: 
+keywords:
+  - centos
+  - svnserver
+description:
+  - centos
+  - svnserver
 feature:
 ---
 

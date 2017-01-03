@@ -3,7 +3,14 @@ title: linux指定某非root用户执行开机启动项的方法
 tags:
 categories:
   - Linux server
-description: 
+keywords:
+  - linux
+  - 非root
+  - 开机启动
+description:
+  - linux
+  - 非root
+  - 开机启动
 toc: false
 date: 2016-08-09 15:11:50
 feature:

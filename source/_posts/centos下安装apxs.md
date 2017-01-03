@@ -6,7 +6,12 @@ categories:
   - Web server
 toc: true
 date: 2015-04-16 16:26:23
-description: 
+keywords:
+  - centos
+  - apxs
+description:
+  - centos
+  - apxs
 feature:
 ---
 

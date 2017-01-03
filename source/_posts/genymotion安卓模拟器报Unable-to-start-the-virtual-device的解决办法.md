@@ -6,7 +6,12 @@ toc: false
 date: 2016-08-08 15:33:51
 tags:
   - virtualbox
-description: 
+keywords:
+  - genymotion
+  - virtual device
+description:
+  - genymotion
+  - virtual device
 feature:
 ---
 

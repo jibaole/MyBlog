@@ -6,7 +6,14 @@ categories:
   - Network proxy
 toc: true
 date: 2015-09-11 11:01:08
-description: 记录在centos6.x上面搭建pptp vpn的方法
+keywords:
+  - centos
+  - pptp
+  - vpn
+description:
+  - centos
+  - pptp
+  - vpn
 feature:
 ---
 

@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: true
 date: 2016-09-18 15:17:22
-description: 
+keywords:
+  - rails
+  - yield
+  - content_for
+description:
+  - rails
+  - yield
+  - content_for
 feature:
 ---
 

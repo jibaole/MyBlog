@@ -6,7 +6,12 @@ categories:
   - Database
 toc: false
 date: 2013-11-17 15:19:57
-description: 
+keywords:
+  - mysql
+  - while
+description:
+  - mysql
+  - while
 feature:
 ---
 

@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: false
 date: 2015-09-14 16:20:43
-description: ci是一个轻量型的PHP优秀框架，但是它是在apache服务器下开发的，在nginx下需要特别的配置才可以使用。
+keywords:
+  - codeigniter
+  - nginx
+description:
+  - codeigniter
+  - nginx
 feature:
 ---
 

@@ -6,7 +6,12 @@ categories:
   - Virtualization technology
 toc: true
 date: 2015-06-16 14:29:10
-description: 
+keywords:
+  - centos
+  - docker
+description:
+  - centos
+  - docker
 feature:
 ---
 

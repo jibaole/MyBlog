@@ -6,7 +6,10 @@ categories:
   - Big Data technology
 toc: false
 date: 2015-05-14 18:03:46
+keywords:
+  - hadoop
 description:
+  - hadoop
 feature:
 ---
 

@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: false
 date: 2016-04-18 10:38:47
-description: 
+keywords:
+  - rails
+  - fixnum
+description:
+  - rails
+  - fixnum
 feature:
 ---
 

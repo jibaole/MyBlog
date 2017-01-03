@@ -3,7 +3,14 @@ title: 使用iptables屏蔽ip和端口号
 tags:
 categories:
   - Linux server
-description: 记录使用iptables屏蔽指定的ip地址和端口号
+description: 
+  - iptables
+  - 屏蔽ip
+  - 屏蔽端口
+keywords:
+  - iptables
+  - 屏蔽ip
+  - 屏蔽端口
 toc: true
 date: 2011-05-09 16:46:56
 feature:

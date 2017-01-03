@@ -6,7 +6,14 @@ categories:
   - Version control
 toc: true
 date: 2016-09-11 11:21:15
-description: 记录gitlab配置邮箱功能的方法
+description: 
+  - gitlab
+  - 网易
+  - 163邮箱
+keywords:
+  - gitlab
+  - 网易
+  - 163邮箱
 feature:
 ---
 

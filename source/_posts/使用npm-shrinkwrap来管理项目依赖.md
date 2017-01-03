@@ -7,6 +7,15 @@ categories:
 toc: true
 date: 2015-11-21 13:57:44
 description: 
+  - npm
+  - shrinkwrap
+  - 管理
+  - 项目依赖
+keywords:
+  - npm
+  - shrinkwrap
+  - 管理
+  - 项目依赖
 feature:
 ---
 

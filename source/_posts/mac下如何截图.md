@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: true
 date: 2014-08-17 15:40:18
+keywords:
+  - macos
+  - 截图
 description:
+  - macos
+  - 截图
 feature:
 ---
 

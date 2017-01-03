@@ -6,7 +6,12 @@ categories:
   - Frontend technology
 toc: true
 date: 2016-05-21 10:28:04
-description: 
+keywords:
+  - javascript
+  - 严格模式
+description:
+  - javascript
+  - 严格模式
 feature:
 ---
 

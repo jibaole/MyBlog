@@ -9,7 +9,9 @@ keywords:
   - kindle unlimited
   - 包月
 description:
-  - blog.whichmyhouse.com
+  - kindle
+  - kindle unlimited
+  - 包月
 toc: true
 date: 2016-12-13 18:30:08
 thumbnail: http://7xtlfa.com1.z0.glb.clouddn.com/kindle%E5%8C%85%E6%9C%88.png

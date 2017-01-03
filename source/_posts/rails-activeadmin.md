@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: true
 date: 2016-07-18 10:33:25
+keywords:
+  - rails
+  - activeadmin
 description:
+  - rails
+  - activeadmin
 feature:
 ---
 

@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: true
 date: 2015-11-21 09:57:04
-description: 
+keywords:
+  - ubuntu
+  - jdk
+description:
+  - ubuntu
+  - jdk
 feature:
 ---
 

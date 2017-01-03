@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: true
 date: 2016-04-15 17:03:47
-description: 
+keywords:
+  - rails
+  - rake
+description:
+  - rails
+  - rake
 feature:
 ---
 

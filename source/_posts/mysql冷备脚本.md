@@ -6,7 +6,14 @@ categories:
   - Database
 toc: false
 date: 2015-04-14 17:02:22
+keywords:
+  - mysql
+  - 冷备
+  - 脚本
 description:
+  - mysql
+  - 冷备
+  - 脚本
 feature:
 ---
 

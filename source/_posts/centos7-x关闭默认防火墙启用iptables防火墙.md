@@ -6,7 +6,14 @@ categories:
   - Linux server
 toc: true
 date: 2016-05-11 11:36:06
-description: CentOS7.x默认使用的是firewall作为防火墙，这里改为iptables防火墙步骤。
+keywords:
+  - centos7
+  - 防火墙
+  - iptables
+description:
+  - centos7
+  - 防火墙
+  - iptables
 feature: 
 ---
 

@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2016-05-15 10:25:44
+keywords:
+  - mysql
+  - 自动分区
 description:
+  - mysql
+  - 自动分区
 feature:
 ---
 #### 一、环境

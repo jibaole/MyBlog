@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: false
 date: 2016-05-15 15:11:39
-description: AdminLTE是基于Bootstrap的开源响应式管理模板
+description: 
+  - rails
+  - bower-rails
+  - admin
+keywords:
+  - rails
+  - bower-rails
+  - admin
 feature:
 ---
 

@@ -6,7 +6,14 @@ categories:
   - Big Data technology
 toc: true
 date: 2015-11-14 17:18:17
-description:
+description: 
+  - hadoop
+  - hdfs
+  - put
+keywords:
+  - hadoop
+  - hdfs
+  - put
 feature:
 ---
 

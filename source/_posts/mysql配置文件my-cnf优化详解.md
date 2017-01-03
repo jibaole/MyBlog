@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2015-07-14 16:40:45
+keywords:
+  - mysql
+  - my.cnf
 description:
+  - mysql
+  - my.cnf
 feature:
 ---
 my.cnf

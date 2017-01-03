@@ -4,7 +4,12 @@ tags:
   - mysql
 categories:
   - Database
-description: 
+keywords:
+  - mysql
+  - 导出
+description:
+  - mysql
+  - 导出
 toc: true
 date: 2014-11-08 16:12:14
 feature:

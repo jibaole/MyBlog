@@ -3,7 +3,14 @@ title: windows环境下配置snmp与prtg 实现主机资源监控
 tags:
 categories:
   - Monitoring technology
-description: 
+keywords:
+  - windows
+  - snmp
+  - prtg
+description:
+  - windows
+  - snmp
+  - prtg
 toc: true
 date: 2012-07-08 15:52:51
 feature:

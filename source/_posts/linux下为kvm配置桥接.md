@@ -6,7 +6,14 @@ categories:
   - Virtualization technology
 toc: true
 date: 2015-03-17 15:15:02
+keywords:
+  - linux
+  - kvm
+  - 桥接
 description:
+  - linux
+  - kvm
+  - 桥接
 feature:
 ---
 

@@ -6,7 +6,12 @@ categories:
   - Automated software
 toc: true
 date: 2015-05-15 14:31:52
+keywords:
+  - linux
+  - redmine
 description:
+  - linux
+  - redmine
 feature:
 ---
 

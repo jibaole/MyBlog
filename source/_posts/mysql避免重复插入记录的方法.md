@@ -6,7 +6,12 @@ categories:
   - Database
 toc: true
 date: 2016-04-14 14:58:25
-description: 
+keywords:
+  - mysql
+  - 重复插入
+description:
+  - mysql
+  - 重复插入
 feature:
 ---
 

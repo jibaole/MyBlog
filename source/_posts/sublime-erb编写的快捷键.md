@@ -6,7 +6,14 @@ categories:
   - Development tools
 toc: false
 date: 2016-04-17 16:48:45
+keywords:
+  - subime
+  - erb
+  - 快捷键
 description:
+  - subime
+  - erb
+  - 快捷键
 feature:
 ---
 

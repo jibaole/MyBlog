@@ -6,7 +6,14 @@ categories:
   - Web server
 toc: true
 date: 2015-04-11 11:30:18
-description: 记录禁止apache显示目录索引的三种方法
+keywords:
+  - apache
+  - 目录索引
+  - 禁止
+description:
+  - apache
+  - 目录索引
+  - 禁止
 feature:
 ---
 

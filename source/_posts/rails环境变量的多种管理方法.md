@@ -6,7 +6,12 @@ categories:
   - Web development
 toc: true
 date: 2016-05-15 15:52:02
+keywords:
+  - rails
+  - 环境变量
 description:
+  - rails
+  - 环境变量
 feature:
 ---
 

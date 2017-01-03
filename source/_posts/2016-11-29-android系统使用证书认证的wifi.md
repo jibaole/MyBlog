@@ -7,6 +7,13 @@ categories:
 toc: false
 date: 2016-11-29 14:02:14
 description: 
+  - android
+  - wifi
+  - 证书认证
+keywords:
+  - android
+  - wifi
+  - 证书认证
 feature: 
 ---
 

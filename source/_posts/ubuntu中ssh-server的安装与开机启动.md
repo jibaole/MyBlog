@@ -4,7 +4,12 @@ tags:
   - ubuntu
 categories:
   - Linux server
-description: 
+keywords:
+  - ubuntu
+  - ssh server
+description:
+  - ubuntu
+  - ssh server
 toc: true
 date: 2012-11-09 10:54:12
 feature:

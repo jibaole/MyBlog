@@ -6,7 +6,12 @@ categories:
   - Linux server
 toc: true
 date: 2013-11-18 10:42:14
-description: 
+keywords:
+  - ubuntu
+  - snmp
+description:
+  - ubuntu
+  - snmp
 feature:
 ---
 

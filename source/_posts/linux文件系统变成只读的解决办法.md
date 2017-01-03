@@ -5,7 +5,14 @@ categories:
   - Linux server
 toc: true
 date: 2013-11-14 11:17:09
+keywords:
+  - linux
+  - 文件系统
+  - 只读
 description:
+  - linux
+  - 文件系统
+  - 只读
 feature:
 ---
 

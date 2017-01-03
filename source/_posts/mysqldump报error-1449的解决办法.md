@@ -6,7 +6,14 @@ categories:
   - Database
 toc: false
 date: 2015-11-16 17:27:55
+keywords:
+  - mysql
+  - mysqldump
+  - 1449
 description:
+  - mysql
+  - mysqldump
+  - 1449
 feature:
 ---
 

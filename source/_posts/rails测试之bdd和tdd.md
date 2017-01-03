@@ -6,7 +6,16 @@ categories:
   - Web development
 toc: true
 date: 2016-05-18 11:25:11
-description: 
+keywords:
+  - rails
+  - 测试
+  - bdd
+  - tdd
+description:
+  - rails
+  - 测试
+  - bdd
+  - tdd
 feature:
 ---
 

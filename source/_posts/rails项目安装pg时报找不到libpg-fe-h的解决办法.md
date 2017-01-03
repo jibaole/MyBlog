@@ -6,7 +6,12 @@ toc: true
 date: 2016-07-08 15:19:30
 tags:
   - rails
-description: 
+keywords:
+  - rails
+  - pg
+description:
+  - rails
+  - pg
 feature:
 ---
 

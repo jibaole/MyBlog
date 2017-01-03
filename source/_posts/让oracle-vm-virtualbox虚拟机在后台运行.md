@@ -6,7 +6,12 @@ categories:
   - Virtualization technology
 toc: false
 date: 2015-10-16 16:30:10
-description:
+description: 
+  - virtualbox
+  - 后台运行
+keywords:
+  - virtualbox
+  - 后台运行
 feature:
 ---
 

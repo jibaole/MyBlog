@@ -5,6 +5,11 @@ tags:
 categories:
   - Web development
 description: 
+  - rails
+  - 卸载
+keywords:
+  - rails
+  - 卸载
 toc: true
 date: 2016-06-08 17:26:11
 feature:

@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: true
 date: 2015-11-21 10:03:12
-description: 
+keywords:
+  - ubuntu
+  - glxinfo
+description:
+  - ubuntu
+  - glxinfo
 feature:
 ---
 

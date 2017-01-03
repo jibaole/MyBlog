@@ -6,7 +6,12 @@ categories:
   - Web server
 toc: true
 date: 2015-11-16 16:45:00
-description: 
+keywords:
+  - nginx
+  - 目录索引
+description:
+  - nginx
+  - 目录索引
 feature:
 ---
 

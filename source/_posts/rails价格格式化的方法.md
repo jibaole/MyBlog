@@ -6,7 +6,14 @@ categories:
   - Web development
 toc: true
 date: 2016-08-18 11:11:24
+keywords:
+  - rails
+  - 价格
+  - 格式化
 description:
+  - rails
+  - 价格
+  - 格式化
 feature:
 ---
 

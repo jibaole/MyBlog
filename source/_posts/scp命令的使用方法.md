@@ -4,7 +4,12 @@ tags:
   - shell
 categories:
   - Scripting language
-description: 记录linux中scp命令的简单使用方法
+keywords:
+  - shell
+  - scp
+description:
+  - shell
+  - scp
 toc: true
 date: 2013-11-09 16:44:32
 feature:

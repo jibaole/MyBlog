@@ -6,7 +6,12 @@ categories:
   - Automated software
 toc: true
 date: 2016-08-18 14:58:53
-description: 
+keywords:
+  - centos
+  - puppet
+description:
+  - centos
+  - puppet
 feature:
 ---
 

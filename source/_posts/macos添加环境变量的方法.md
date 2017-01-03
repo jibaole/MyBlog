@@ -6,7 +6,12 @@ categories:
   - Operating system
 toc: false
 date: 2014-06-17 16:37:27
+keywords:
+  - macos
+  - 环境变量
 description:
+  - macos
+  - 环境变量
 feature:
 ---
 

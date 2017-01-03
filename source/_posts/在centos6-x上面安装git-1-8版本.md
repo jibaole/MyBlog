@@ -6,7 +6,14 @@ toc: true
 date: 2016-09-08 11:39:32
 tags:
   - git
-description: 记录在centos6.5中安装git 1.8版本的操作步骤
+description: 
+  - centos
+  - git
+  - 1.8
+keywords:
+  - centos
+  - git
+  - 1.8
 feature:
 ---
 

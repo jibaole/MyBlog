@@ -6,7 +6,14 @@ categories:
   - Operating system
 toc: true
 date: 2015-04-15 14:38:16
-description:
+description: 
+  - ubuntu
+  - 14.04
+  - 桌面版
+keywords:
+  - ubuntu
+  - 14.04
+  - 桌面版
 feature:
 ---
 

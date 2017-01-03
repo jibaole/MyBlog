@@ -6,7 +6,12 @@ categories:
   - Automated software
 toc: true
 date: 2015-11-11 11:25:25
-description: 记录jenkins无法ssh到客户端的解决方法
+description: 
+  - jenkins
+  - ssh
+keywords:
+  - jenkins
+  - ssh
 feature:
 ---
 

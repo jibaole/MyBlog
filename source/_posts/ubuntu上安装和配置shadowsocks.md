@@ -6,7 +6,12 @@ categories:
   - Network proxy
 toc: true
 date: 2015-11-15 17:26:25
+keywords:
+  - ubuntu
+  - shadowsocks
 description:
+  - ubuntu
+  - shadowsocks
 feature:
 ---
 

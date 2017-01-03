@@ -6,7 +6,12 @@ categories:
   - Development tools
 toc: false
 date: 2014-11-16 14:18:05
+keywords:
+  - sublime
+  - 注册码
 description:
+  - sublime
+  - 注册码
 feature:
 ---
 ```

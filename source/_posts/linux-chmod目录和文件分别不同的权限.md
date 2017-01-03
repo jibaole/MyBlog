@@ -5,7 +5,12 @@ categories:
   - Linux server
 toc: false
 date: 2014-11-18 16:16:59
-description: 
+keywords:
+  - linux
+  - chmod
+description:
+  - linux
+  - chmod
 feature:
 ---
 

@@ -6,7 +6,10 @@ categories:
   - Monitoring technology
 toc: true
 date: 2015-05-14 15:31:10
+keywords:
+  - zabbix
 description:
+  - zabbix
 feature:
 ---
 
