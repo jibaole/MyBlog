@@ -2,7 +2,7 @@
 title: 开源
 layout: page
 comments: false
-toc: true
+toc: false
 ---
 
 * google gdg社区
