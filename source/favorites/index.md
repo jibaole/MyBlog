@@ -23,3 +23,7 @@ https://stackoverflow.com
 https://www.youtube.com
 * 云栖社区
 https://yq.aliyun.com/articles
+* shadowsocks客户端下载链接
+https://gfw88.xyz/dl/Windows/
+* 360网站安全检查
+http://webscan.360.cn/

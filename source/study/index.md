@@ -20,6 +20,10 @@ https://www.ubuntu.com/cloud
 http://wenku.baidu.com/link?url=OvGnuFH_OraGCDOQA1INOHu8WRsQ7fPLDLE0Wp229fMnJApPlNAmg6HAa2mob1uT5QGh8kMxS5MSno6rCcV5R33wYHFGVQAv9TRv9YNOBvq
 * Parse Server 与 Firebase 谁更好,你选用哪一边? 
 https://www.oschina.net/question/2829754_2185238?fromerr=4Bn16uMN
+* 实战：上亿数据如何秒查？
+http://www.oschina.net/news/74787/how-the-data-on-the-second-search
+* 美柚自主研发的API实时监控系统
+https://yq.aliyun.com/product/948
 
 ### 虚拟化
 * DevStack
